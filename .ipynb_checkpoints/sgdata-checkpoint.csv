@@ -1,0 +1,2001 @@
+ID,Sex,Marital status,Age,Education,Income,Occupation,Settlement size
+100000001,0,single,67,university,124670,skilled employee / official,2
+100000002,1,non-single (divorced / separated / married / widowed),22,high school,150773,skilled employee / official,2
+100000003,0,single,49,high school,89210,unemployed / unskilled,0
+100000004,0,single,45,high school,171565,skilled employee / official,1
+100000005,0,single,53,high school,149031,skilled employee / official,1
+100000006,0,single,35,high school,144848,unemployed / unskilled,0
+100000007,0,single,53,high school,156495,skilled employee / official,1
+100000008,0,single,35,high school,193621,management / self-employed / highly qualified employee / officer,1
+100000009,0,non-single (divorced / separated / married / widowed),61,university,151591,unemployed / unskilled,0
+100000010,0,non-single (divorced / separated / married / widowed),28,high school,174646,management / self-employed / highly qualified employee / officer,0
+100000011,1,non-single (divorced / separated / married / widowed),25,high school,108469,skilled employee / official,0
+100000012,1,non-single (divorced / separated / married / widowed),24,high school,127596,skilled employee / official,0
+100000013,1,non-single (divorced / separated / married / widowed),22,high school,108687,skilled employee / official,2
+100000014,0,single,60,university,89374,unemployed / unskilled,0
+100000015,1,non-single (divorced / separated / married / widowed),28,high school,102899,skilled employee / official,1
+100000016,1,non-single (divorced / separated / married / widowed),32,high school,88428,unemployed / unskilled,0
+100000017,0,single,53,high school,125550,skilled employee / official,0
+100000018,0,single,25,other / unknown,157434,skilled employee / official,2
+100000019,1,non-single (divorced / separated / married / widowed),44,university,261952,management / self-employed / highly qualified employee / officer,2
+100000020,0,single,31,other / unknown,144657,skilled employee / official,1
+100000021,0,single,48,high school,118777,skilled employee / official,1
+100000022,0,single,44,high school,147511,skilled employee / official,1
+100000023,0,single,48,high school,89804,unemployed / unskilled,0
+100000024,0,single,44,high school,134918,skilled employee / official,2
+100000025,0,non-single (divorced / separated / married / widowed),26,high school,103667,skilled employee / official,2
+100000026,0,single,36,high school,71909,unemployed / unskilled,0
+100000027,0,non-single (divorced / separated / married / widowed),39,high school,68264,unemployed / unskilled,0
+100000028,1,non-single (divorced / separated / married / widowed),42,university,163025,skilled employee / official,1
+100000029,0,single,34,high school,119307,skilled employee / official,1
+100000030,0,single,63,university,175882,skilled employee / official,0
+100000031,0,non-single (divorced / separated / married / widowed),36,high school,159646,skilled employee / official,1
+100000032,0,single,27,other / unknown,120131,skilled employee / official,1
+100000033,0,single,30,other / unknown,162745,skilled employee / official,2
+100000034,0,single,57,university,87605,unemployed / unskilled,0
+100000035,1,non-single (divorced / separated / married / widowed),33,high school,155569,management / self-employed / highly qualified employee / officer,1
+100000036,0,single,25,other / unknown,104505,unemployed / unskilled,0
+100000037,0,single,31,other / unknown,143385,skilled employee / official,2
+100000038,0,single,37,high school,127676,skilled employee / official,1
+100000039,0,single,37,high school,119276,skilled employee / official,1
+100000040,0,single,24,other / unknown,92542,skilled employee / official,1
+100000041,0,single,30,other / unknown,163329,management / self-employed / highly qualified employee / officer,1
+100000042,0,non-single (divorced / separated / married / widowed),26,high school,130921,skilled employee / official,0
+100000043,0,single,44,high school,133658,unemployed / unskilled,0
+100000044,0,non-single (divorced / separated / married / widowed),24,high school,155104,skilled employee / official,1
+100000045,1,non-single (divorced / separated / married / widowed),58,university,142335,unemployed / unskilled,1
+100000046,1,non-single (divorced / separated / married / widowed),35,high school,138387,management / self-employed / highly qualified employee / officer,1
+100000047,0,single,39,high school,140182,skilled employee / official,0
+100000048,1,non-single (divorced / separated / married / widowed),23,high school,65421,unemployed / unskilled,0
+100000049,0,single,39,high school,130500,unemployed / unskilled,0
+100000050,1,non-single (divorced / separated / married / widowed),28,high school,122831,skilled employee / official,0
+100000051,0,single,29,other / unknown,84531,unemployed / unskilled,0
+100000052,0,single,30,other / unknown,180196,management / self-employed / highly qualified employee / officer,2
+100000053,0,single,25,other / unknown,92058,skilled employee / official,2
+100000054,0,single,31,other / unknown,117158,skilled employee / official,0
+100000055,0,single,57,university,135830,skilled employee / official,1
+100000056,0,single,26,other / unknown,58258,unemployed / unskilled,0
+100000057,0,single,52,high school,202575,management / self-employed / highly qualified employee / officer,2
+100000058,1,non-single (divorced / separated / married / widowed),31,high school,183657,skilled employee / official,1
+100000059,1,non-single (divorced / separated / married / widowed),23,high school,152267,management / self-employed / highly qualified employee / officer,1
+100000060,1,non-single (divorced / separated / married / widowed),23,high school,115240,unemployed / unskilled,0
+100000061,0,non-single (divorced / separated / married / widowed),27,high school,106955,skilled employee / official,2
+100000062,0,single,50,high school,123641,skilled employee / official,1
+100000063,0,single,61,university,166410,management / self-employed / highly qualified employee / officer,1
+100000064,0,single,25,other / unknown,227385,skilled employee / official,2
+100000065,1,non-single (divorced / separated / married / widowed),26,high school,118372,skilled employee / official,1
+100000066,0,single,48,high school,148115,skilled employee / official,1
+100000067,1,non-single (divorced / separated / married / widowed),29,high school,111069,skilled employee / official,0
+100000068,0,non-single (divorced / separated / married / widowed),22,high school,139780,skilled employee / official,0
+100000069,0,single,37,high school,106978,skilled employee / official,2
+100000070,1,non-single (divorced / separated / married / widowed),25,high school,110019,skilled employee / official,2
+100000071,1,non-single (divorced / separated / married / widowed),30,high school,169102,skilled employee / official,1
+100000072,0,single,46,high school,73703,unemployed / unskilled,0
+100000073,0,single,51,high school,141858,management / self-employed / highly qualified employee / officer,2
+100000074,1,non-single (divorced / separated / married / widowed),41,university,135959,unemployed / unskilled,0
+100000075,0,single,40,high school,140888,management / self-employed / highly qualified employee / officer,2
+100000076,0,single,66,university,157299,management / self-employed / highly qualified employee / officer,2
+100000077,0,single,34,high school,125187,skilled employee / official,1
+100000078,0,single,51,high school,155486,skilled employee / official,2
+100000079,0,single,39,high school,151697,unemployed / unskilled,0
+100000080,0,non-single (divorced / separated / married / widowed),22,high school,126400,skilled employee / official,1
+100000081,1,non-single (divorced / separated / married / widowed),44,university,159246,skilled employee / official,2
+100000082,0,single,47,high school,136138,skilled employee / official,1
+100000083,1,non-single (divorced / separated / married / widowed),24,high school,84792,unemployed / unskilled,0
+100000084,1,non-single (divorced / separated / married / widowed),58,university,100210,unemployed / unskilled,0
+100000085,0,single,52,high school,93706,unemployed / unskilled,0
+100000086,1,non-single (divorced / separated / married / widowed),29,high school,133783,management / self-employed / highly qualified employee / officer,1
+100000087,1,non-single (divorced / separated / married / widowed),27,high school,110064,skilled employee / official,2
+100000088,0,single,47,high school,241068,skilled employee / official,1
+100000089,0,single,30,other / unknown,149022,management / self-employed / highly qualified employee / officer,2
+100000090,0,single,28,other / unknown,92973,skilled employee / official,2
+100000091,0,single,56,high school,110605,skilled employee / official,1
+100000092,0,single,54,high school,116604,skilled employee / official,1
+100000093,1,non-single (divorced / separated / married / widowed),33,high school,71070,unemployed / unskilled,0
+100000094,0,single,20,other / unknown,128678,skilled employee / official,1
+100000095,0,single,54,high school,165230,skilled employee / official,2
+100000096,0,single,58,university,268340,skilled employee / official,1
+100000097,1,non-single (divorced / separated / married / widowed),61,university,135070,skilled employee / official,1
+100000098,0,single,34,high school,134794,skilled employee / official,2
+100000099,0,single,36,high school,120153,skilled employee / official,1
+100000100,0,single,36,high school,195465,management / self-employed / highly qualified employee / officer,2
+100000101,0,non-single (divorced / separated / married / widowed),41,high school,93372,unemployed / unskilled,0
+100000102,0,single,24,other / unknown,110446,skilled employee / official,0
+100000103,1,non-single (divorced / separated / married / widowed),24,high school,95186,skilled employee / official,1
+100000104,0,single,35,high school,115343,skilled employee / official,1
+100000105,0,non-single (divorced / separated / married / widowed),26,high school,107276,skilled employee / official,1
+100000106,0,single,39,high school,244716,management / self-employed / highly qualified employee / officer,2
+100000107,0,single,39,high school,183108,management / self-employed / highly qualified employee / officer,2
+100000108,0,single,32,other / unknown,152876,skilled employee / official,2
+100000109,1,non-single (divorced / separated / married / widowed),30,high school,165147,skilled employee / official,0
+100000110,0,non-single (divorced / separated / married / widowed),35,high school,140520,skilled employee / official,0
+100000111,0,non-single (divorced / separated / married / widowed),31,high school,124203,skilled employee / official,1
+100000112,1,non-single (divorced / separated / married / widowed),23,high school,107205,skilled employee / official,1
+100000113,0,single,28,other / unknown,121432,unemployed / unskilled,2
+100000114,1,non-single (divorced / separated / married / widowed),25,high school,162445,skilled employee / official,0
+100000115,0,non-single (divorced / separated / married / widowed),35,high school,134112,skilled employee / official,1
+100000116,0,single,47,high school,131842,skilled employee / official,1
+100000117,1,non-single (divorced / separated / married / widowed),30,high school,189896,management / self-employed / highly qualified employee / officer,0
+100000118,1,non-single (divorced / separated / married / widowed),27,high school,109099,skilled employee / official,2
+100000119,1,non-single (divorced / separated / married / widowed),23,high school,153539,skilled employee / official,1
+100000120,0,non-single (divorced / separated / married / widowed),36,high school,180495,management / self-employed / highly qualified employee / officer,1
+100000121,1,non-single (divorced / separated / married / widowed),25,high school,104653,skilled employee / official,2
+100000122,1,non-single (divorced / separated / married / widowed),41,university,166933,management / self-employed / highly qualified employee / officer,2
+100000123,0,single,24,other / unknown,66118,unemployed / unskilled,0
+100000124,0,single,63,university,135754,skilled employee / official,0
+100000125,1,non-single (divorced / separated / married / widowed),27,high school,116103,skilled employee / official,2
+100000126,0,single,30,other / unknown,104293,skilled employee / official,1
+100000127,0,non-single (divorced / separated / married / widowed),40,high school,71702,unemployed / unskilled,0
+100000128,0,single,30,other / unknown,99066,skilled employee / official,2
+100000129,0,single,34,high school,143979,management / self-employed / highly qualified employee / officer,2
+100000130,1,non-single (divorced / separated / married / widowed),29,high school,123818,skilled employee / official,0
+100000131,1,non-single (divorced / separated / married / widowed),24,high school,176714,skilled employee / official,2
+100000132,0,single,29,other / unknown,149249,skilled employee / official,2
+100000133,0,single,27,other / unknown,77535,unemployed / unskilled,0
+100000134,0,single,47,high school,116540,skilled employee / official,1
+100000135,1,non-single (divorced / separated / married / widowed),21,high school,194728,skilled employee / official,0
+100000136,1,non-single (divorced / separated / married / widowed),38,high school,109311,skilled employee / official,2
+100000137,0,single,27,other / unknown,204723,skilled employee / official,2
+100000138,0,single,66,university,126003,unemployed / unskilled,0
+100000139,0,single,35,high school,123109,skilled employee / official,1
+100000140,1,non-single (divorced / separated / married / widowed),44,university,108251,unemployed / unskilled,0
+100000141,0,non-single (divorced / separated / married / widowed),27,high school,89908,unemployed / unskilled,0
+100000142,1,non-single (divorced / separated / married / widowed),30,high school,176057,management / self-employed / highly qualified employee / officer,1
+100000143,0,single,27,other / unknown,144332,management / self-employed / highly qualified employee / officer,2
+100000144,0,single,22,other / unknown,101185,skilled employee / official,1
+100000145,1,non-single (divorced / separated / married / widowed),23,high school,107406,skilled employee / official,2
+100000146,0,single,30,other / unknown,140665,skilled employee / official,1
+100000147,1,non-single (divorced / separated / married / widowed),39,university,106461,skilled employee / official,0
+100000148,1,non-single (divorced / separated / married / widowed),51,university,127825,skilled employee / official,0
+100000149,0,single,28,other / unknown,133898,skilled employee / official,1
+100000150,0,single,46,high school,152383,skilled employee / official,2
+100000151,0,single,42,high school,119926,skilled employee / official,0
+100000152,0,single,38,high school,108784,skilled employee / official,2
+100000153,0,single,24,other / unknown,153286,skilled employee / official,1
+100000154,1,non-single (divorced / separated / married / widowed),29,high school,214204,skilled employee / official,2
+100000155,0,single,36,high school,208101,management / self-employed / highly qualified employee / officer,2
+100000156,1,non-single (divorced / separated / married / widowed),20,high school,95355,skilled employee / official,1
+100000157,0,single,48,high school,124156,skilled employee / official,1
+100000158,0,non-single (divorced / separated / married / widowed),45,university,72215,unemployed / unskilled,0
+100000159,0,single,38,high school,146529,skilled employee / official,2
+100000160,0,single,34,high school,75343,unemployed / unskilled,0
+100000161,0,single,36,high school,129789,skilled employee / official,1
+100000162,1,non-single (divorced / separated / married / widowed),30,high school,101153,skilled employee / official,1
+100000163,0,single,36,high school,127833,skilled employee / official,2
+100000164,0,single,70,university,224998,management / self-employed / highly qualified employee / officer,2
+100000165,0,single,36,high school,124445,skilled employee / official,2
+100000166,0,single,32,other / unknown,141116,skilled employee / official,1
+100000167,1,non-single (divorced / separated / married / widowed),33,high school,104276,skilled employee / official,2
+100000168,1,non-single (divorced / separated / married / widowed),20,high school,147687,skilled employee / official,2
+100000169,1,non-single (divorced / separated / married / widowed),25,high school,125168,skilled employee / official,1
+100000170,0,non-single (divorced / separated / married / widowed),31,high school,115369,skilled employee / official,2
+100000171,0,single,33,high school,95445,skilled employee / official,0
+100000172,1,non-single (divorced / separated / married / widowed),26,high school,95159,skilled employee / official,1
+100000173,1,non-single (divorced / separated / married / widowed),34,high school,153031,management / self-employed / highly qualified employee / officer,2
+100000174,0,single,33,high school,108899,skilled employee / official,0
+100000175,0,single,26,other / unknown,113515,skilled employee / official,1
+100000176,1,non-single (divorced / separated / married / widowed),53,university,211229,management / self-employed / highly qualified employee / officer,0
+100000177,0,non-single (divorced / separated / married / widowed),42,university,121307,skilled employee / official,0
+100000178,0,single,52,high school,131727,skilled employee / official,2
+100000179,0,single,31,other / unknown,133574,management / self-employed / highly qualified employee / officer,1
+100000180,0,single,65,university,117334,skilled employee / official,0
+100000181,0,non-single (divorced / separated / married / widowed),28,high school,177291,skilled employee / official,2
+100000182,0,non-single (divorced / separated / married / widowed),30,high school,168763,management / self-employed / highly qualified employee / officer,1
+100000183,0,single,40,high school,77720,unemployed / unskilled,0
+100000184,0,single,50,high school,176645,skilled employee / official,2
+100000185,0,single,36,high school,106205,skilled employee / official,1
+100000186,0,single,31,other / unknown,97785,skilled employee / official,1
+100000187,1,non-single (divorced / separated / married / widowed),74,graduate school,214364,management / self-employed / highly qualified employee / officer,1
+100000188,0,single,68,university,74525,unemployed / unskilled,0
+100000189,0,non-single (divorced / separated / married / widowed),20,high school,98988,skilled employee / official,0
+100000190,1,non-single (divorced / separated / married / widowed),33,high school,133561,skilled employee / official,1
+100000191,0,single,54,high school,217651,management / self-employed / highly qualified employee / officer,2
+100000192,0,single,34,high school,116525,unemployed / unskilled,0
+100000193,0,single,36,high school,135302,skilled employee / official,2
+100000194,0,non-single (divorced / separated / married / widowed),29,high school,106434,skilled employee / official,1
+100000195,0,single,21,other / unknown,128350,skilled employee / official,2
+100000196,1,non-single (divorced / separated / married / widowed),34,high school,147626,management / self-employed / highly qualified employee / officer,2
+100000197,1,non-single (divorced / separated / married / widowed),28,high school,102697,skilled employee / official,0
+100000198,1,non-single (divorced / separated / married / widowed),27,high school,120262,skilled employee / official,0
+100000199,0,single,36,high school,124214,skilled employee / official,2
+100000200,0,non-single (divorced / separated / married / widowed),40,high school,175223,management / self-employed / highly qualified employee / officer,1
+100000201,0,single,52,high school,137467,skilled employee / official,0
+100000202,0,non-single (divorced / separated / married / widowed),27,high school,65815,unemployed / unskilled,0
+100000203,0,single,26,other / unknown,129864,skilled employee / official,1
+100000204,0,non-single (divorced / separated / married / widowed),21,high school,88475,skilled employee / official,1
+100000205,0,single,38,high school,74666,unemployed / unskilled,0
+100000206,0,single,38,high school,222294,management / self-employed / highly qualified employee / officer,2
+100000207,0,single,43,high school,112878,skilled employee / official,0
+100000208,0,single,26,other / unknown,103411,skilled employee / official,2
+100000209,0,non-single (divorced / separated / married / widowed),21,high school,112868,unemployed / unskilled,0
+100000210,0,single,55,high school,157940,skilled employee / official,2
+100000211,0,single,33,high school,115835,skilled employee / official,2
+100000212,1,non-single (divorced / separated / married / widowed),45,university,109807,unemployed / unskilled,0
+100000213,0,single,50,high school,150699,skilled employee / official,1
+100000214,0,single,66,university,178967,management / self-employed / highly qualified employee / officer,0
+100000215,0,single,51,high school,132767,skilled employee / official,0
+100000216,1,non-single (divorced / separated / married / widowed),39,university,86152,unemployed / unskilled,0
+100000217,0,single,31,other / unknown,114528,skilled employee / official,2
+100000218,0,single,23,other / unknown,133912,skilled employee / official,1
+100000219,0,non-single (divorced / separated / married / widowed),24,high school,81210,unemployed / unskilled,0
+100000220,1,non-single (divorced / separated / married / widowed),64,graduate school,131242,skilled employee / official,0
+100000221,0,non-single (divorced / separated / married / widowed),26,high school,68804,unemployed / unskilled,0
+100000222,1,non-single (divorced / separated / married / widowed),23,high school,96961,skilled employee / official,1
+100000223,0,single,30,other / unknown,90719,skilled employee / official,2
+100000224,0,single,32,other / unknown,114116,skilled employee / official,1
+100000225,0,single,30,other / unknown,128639,skilled employee / official,1
+100000226,0,single,27,other / unknown,106623,skilled employee / official,1
+100000227,0,single,27,other / unknown,236264,skilled employee / official,1
+100000228,0,single,53,high school,207783,management / self-employed / highly qualified employee / officer,1
+100000229,0,single,22,other / unknown,91739,skilled employee / official,1
+100000230,0,single,22,other / unknown,107780,skilled employee / official,2
+100000231,0,single,26,other / unknown,139157,skilled employee / official,2
+100000232,0,single,51,high school,121751,unemployed / unskilled,0
+100000233,0,single,35,high school,121974,skilled employee / official,0
+100000234,0,non-single (divorced / separated / married / widowed),25,high school,70320,unemployed / unskilled,0
+100000235,0,single,42,high school,78327,unemployed / unskilled,0
+100000236,0,single,30,other / unknown,131433,management / self-employed / highly qualified employee / officer,0
+100000237,0,single,23,other / unknown,167076,unemployed / unskilled,2
+100000238,0,non-single (divorced / separated / married / widowed),61,university,130788,unemployed / unskilled,0
+100000239,1,non-single (divorced / separated / married / widowed),35,high school,107408,skilled employee / official,1
+100000240,0,single,39,high school,115323,skilled employee / official,1
+100000241,1,non-single (divorced / separated / married / widowed),29,high school,99012,skilled employee / official,0
+100000242,0,single,51,high school,115996,skilled employee / official,1
+100000243,0,single,24,other / unknown,123353,skilled employee / official,1
+100000244,1,non-single (divorced / separated / married / widowed),27,high school,100008,skilled employee / official,0
+100000245,1,non-single (divorced / separated / married / widowed),35,high school,125105,unemployed / unskilled,0
+100000246,0,single,25,other / unknown,92020,skilled employee / official,2
+100000247,0,single,52,high school,108365,skilled employee / official,2
+100000248,0,single,35,high school,112979,skilled employee / official,0
+100000249,0,single,26,other / unknown,117221,skilled employee / official,1
+100000250,1,non-single (divorced / separated / married / widowed),22,high school,88800,skilled employee / official,2
+100000251,1,non-single (divorced / separated / married / widowed),39,university,115099,unemployed / unskilled,0
+100000252,1,non-single (divorced / separated / married / widowed),46,university,113399,unemployed / unskilled,0
+100000253,1,non-single (divorced / separated / married / widowed),24,high school,115879,skilled employee / official,1
+100000254,0,single,35,high school,141270,skilled employee / official,2
+100000255,0,single,24,other / unknown,107633,skilled employee / official,1
+100000256,0,single,27,other / unknown,131751,unemployed / unskilled,0
+100000257,0,single,35,high school,83687,unemployed / unskilled,0
+100000258,0,non-single (divorced / separated / married / widowed),29,high school,106828,skilled employee / official,2
+100000259,1,non-single (divorced / separated / married / widowed),23,high school,135537,skilled employee / official,1
+100000260,1,non-single (divorced / separated / married / widowed),57,university,107142,unemployed / unskilled,0
+100000261,0,single,27,other / unknown,97446,skilled employee / official,1
+100000262,1,non-single (divorced / separated / married / widowed),55,university,126357,skilled employee / official,2
+100000263,0,single,36,high school,169617,management / self-employed / highly qualified employee / officer,1
+100000264,1,non-single (divorced / separated / married / widowed),57,university,108945,unemployed / unskilled,0
+100000265,0,single,32,other / unknown,67345,unemployed / unskilled,0
+100000266,0,single,37,high school,106215,skilled employee / official,0
+100000267,0,single,36,high school,149237,skilled employee / official,0
+100000268,1,non-single (divorced / separated / married / widowed),38,high school,112124,skilled employee / official,0
+100000269,0,non-single (divorced / separated / married / widowed),45,university,215150,management / self-employed / highly qualified employee / officer,2
+100000270,0,single,25,other / unknown,89534,skilled employee / official,1
+100000271,0,single,32,other / unknown,111082,skilled employee / official,2
+100000272,1,non-single (divorced / separated / married / widowed),37,high school,137069,skilled employee / official,1
+100000273,0,single,36,high school,244541,management / self-employed / highly qualified employee / officer,2
+100000274,0,single,28,other / unknown,120712,skilled employee / official,1
+100000275,0,non-single (divorced / separated / married / widowed),34,high school,175367,unemployed / unskilled,0
+100000276,0,single,32,other / unknown,111418,skilled employee / official,1
+100000277,1,non-single (divorced / separated / married / widowed),26,high school,110913,skilled employee / official,0
+100000278,0,non-single (divorced / separated / married / widowed),49,university,84267,unemployed / unskilled,0
+100000279,1,non-single (divorced / separated / married / widowed),32,high school,136886,skilled employee / official,2
+100000280,0,single,29,other / unknown,144884,management / self-employed / highly qualified employee / officer,2
+100000281,0,single,23,other / unknown,151180,skilled employee / official,1
+100000282,0,single,50,high school,114997,skilled employee / official,1
+100000283,0,single,49,high school,100961,unemployed / unskilled,0
+100000284,0,single,63,university,124849,skilled employee / official,2
+100000285,0,non-single (divorced / separated / married / widowed),37,high school,152308,skilled employee / official,2
+100000286,1,non-single (divorced / separated / married / widowed),35,high school,167945,unemployed / unskilled,1
+100000287,0,single,26,other / unknown,126706,skilled employee / official,2
+100000288,0,single,31,other / unknown,210017,management / self-employed / highly qualified employee / officer,2
+100000289,1,non-single (divorced / separated / married / widowed),49,university,125665,skilled employee / official,1
+100000290,0,non-single (divorced / separated / married / widowed),48,university,111184,skilled employee / official,1
+100000291,0,non-single (divorced / separated / married / widowed),26,high school,94134,skilled employee / official,0
+100000292,0,non-single (divorced / separated / married / widowed),28,high school,214620,management / self-employed / highly qualified employee / officer,1
+100000293,1,non-single (divorced / separated / married / widowed),44,university,193816,management / self-employed / highly qualified employee / officer,1
+100000294,0,single,56,high school,168714,skilled employee / official,1
+100000295,0,non-single (divorced / separated / married / widowed),46,university,202997,management / self-employed / highly qualified employee / officer,1
+100000296,1,non-single (divorced / separated / married / widowed),26,high school,192451,skilled employee / official,2
+100000297,1,non-single (divorced / separated / married / widowed),20,high school,127928,skilled employee / official,2
+100000298,0,single,45,high school,78253,unemployed / unskilled,0
+100000299,0,single,43,high school,118446,skilled employee / official,1
+100000300,0,single,32,other / unknown,161379,skilled employee / official,2
+100000301,1,non-single (divorced / separated / married / widowed),54,university,56622,unemployed / unskilled,0
+100000302,1,non-single (divorced / separated / married / widowed),42,university,146117,skilled employee / official,1
+100000303,0,single,37,high school,90418,unemployed / unskilled,0
+100000304,0,single,49,high school,109053,skilled employee / official,0
+100000305,0,single,44,high school,219319,skilled employee / official,0
+100000306,0,non-single (divorced / separated / married / widowed),33,high school,144701,skilled employee / official,1
+100000307,1,non-single (divorced / separated / married / widowed),24,high school,102425,unemployed / unskilled,0
+100000308,0,non-single (divorced / separated / married / widowed),33,high school,79867,unemployed / unskilled,0
+100000309,1,non-single (divorced / separated / married / widowed),24,high school,107114,skilled employee / official,2
+100000310,0,non-single (divorced / separated / married / widowed),22,high school,62263,unemployed / unskilled,0
+100000311,0,single,40,high school,92567,unemployed / unskilled,0
+100000312,0,single,25,other / unknown,146349,skilled employee / official,0
+100000313,1,non-single (divorced / separated / married / widowed),26,high school,141825,skilled employee / official,1
+100000314,0,non-single (divorced / separated / married / widowed),25,high school,68582,unemployed / unskilled,0
+100000315,0,single,29,other / unknown,85476,unemployed / unskilled,0
+100000316,0,single,31,other / unknown,111091,skilled employee / official,2
+100000317,0,single,38,high school,67110,unemployed / unskilled,0
+100000318,1,non-single (divorced / separated / married / widowed),48,university,126154,unemployed / unskilled,0
+100000319,0,single,32,other / unknown,92257,skilled employee / official,2
+100000320,1,non-single (divorced / separated / married / widowed),27,high school,93605,unemployed / unskilled,0
+100000321,0,non-single (divorced / separated / married / widowed),28,high school,165190,management / self-employed / highly qualified employee / officer,0
+100000322,0,non-single (divorced / separated / married / widowed),32,high school,107195,skilled employee / official,0
+100000323,0,single,34,high school,145059,management / self-employed / highly qualified employee / officer,0
+100000324,0,single,28,other / unknown,148363,skilled employee / official,0
+100000325,1,non-single (divorced / separated / married / widowed),36,high school,105681,skilled employee / official,2
+100000326,0,single,39,high school,93732,unemployed / unskilled,0
+100000327,0,single,49,high school,154778,skilled employee / official,2
+100000328,1,non-single (divorced / separated / married / widowed),34,high school,149356,skilled employee / official,2
+100000329,0,single,31,other / unknown,145670,skilled employee / official,1
+100000330,0,single,28,other / unknown,101589,skilled employee / official,2
+100000331,0,single,75,university,213333,management / self-employed / highly qualified employee / officer,1
+100000332,1,non-single (divorced / separated / married / widowed),30,high school,122420,skilled employee / official,0
+100000333,1,non-single (divorced / separated / married / widowed),24,high school,209856,management / self-employed / highly qualified employee / officer,1
+100000334,1,non-single (divorced / separated / married / widowed),24,high school,181003,unemployed / unskilled,0
+100000335,0,single,23,other / unknown,117804,skilled employee / official,1
+100000336,0,non-single (divorced / separated / married / widowed),44,university,160650,management / self-employed / highly qualified employee / officer,1
+100000337,1,non-single (divorced / separated / married / widowed),23,high school,84611,unemployed / unskilled,0
+100000338,1,non-single (divorced / separated / married / widowed),24,high school,98479,skilled employee / official,2
+100000339,0,single,28,other / unknown,122359,skilled employee / official,2
+100000340,0,non-single (divorced / separated / married / widowed),31,high school,81394,unemployed / unskilled,0
+100000341,1,non-single (divorced / separated / married / widowed),24,high school,150372,skilled employee / official,1
+100000342,1,non-single (divorced / separated / married / widowed),26,high school,92385,unemployed / unskilled,0
+100000343,0,non-single (divorced / separated / married / widowed),25,high school,149851,skilled employee / official,2
+100000344,0,single,33,high school,167939,management / self-employed / highly qualified employee / officer,1
+100000345,0,single,37,high school,115426,unemployed / unskilled,0
+100000346,1,non-single (divorced / separated / married / widowed),43,university,85402,unemployed / unskilled,0
+100000347,0,single,23,other / unknown,95815,skilled employee / official,2
+100000348,1,non-single (divorced / separated / married / widowed),23,high school,97518,unemployed / unskilled,0
+100000349,0,single,34,high school,87355,unemployed / unskilled,0
+100000350,0,single,32,other / unknown,145933,skilled employee / official,1
+100000351,1,non-single (divorced / separated / married / widowed),23,high school,97307,skilled employee / official,0
+100000352,1,non-single (divorced / separated / married / widowed),29,high school,108434,skilled employee / official,2
+100000353,0,single,38,high school,151312,management / self-employed / highly qualified employee / officer,1
+100000354,0,single,28,other / unknown,141847,skilled employee / official,1
+100000355,0,single,46,high school,130675,skilled employee / official,2
+100000356,0,single,23,other / unknown,69309,unemployed / unskilled,0
+100000357,0,single,49,high school,121466,skilled employee / official,2
+100000358,0,single,26,other / unknown,153586,management / self-employed / highly qualified employee / officer,2
+100000359,0,non-single (divorced / separated / married / widowed),28,high school,92849,skilled employee / official,0
+100000360,1,non-single (divorced / separated / married / widowed),23,high school,108539,skilled employee / official,2
+100000361,0,single,61,university,129556,skilled employee / official,2
+100000362,0,single,37,high school,170146,management / self-employed / highly qualified employee / officer,0
+100000363,1,non-single (divorced / separated / married / widowed),36,high school,135383,skilled employee / official,1
+100000364,0,non-single (divorced / separated / married / widowed),21,high school,96769,skilled employee / official,2
+100000365,0,single,25,other / unknown,43684,unemployed / unskilled,0
+100000366,0,single,36,high school,103521,skilled employee / official,0
+100000367,0,single,27,other / unknown,118499,skilled employee / official,1
+100000368,1,non-single (divorced / separated / married / widowed),22,high school,119684,skilled employee / official,2
+100000369,0,single,42,high school,126586,skilled employee / official,1
+100000370,1,non-single (divorced / separated / married / widowed),40,university,136812,skilled employee / official,2
+100000371,0,single,36,high school,118277,skilled employee / official,1
+100000372,0,single,33,high school,144597,skilled employee / official,1
+100000373,1,non-single (divorced / separated / married / widowed),23,high school,106043,skilled employee / official,0
+100000374,0,single,63,university,272314,management / self-employed / highly qualified employee / officer,2
+100000375,1,non-single (divorced / separated / married / widowed),60,university,309364,management / self-employed / highly qualified employee / officer,2
+100000376,1,non-single (divorced / separated / married / widowed),37,high school,170386,skilled employee / official,1
+100000377,0,non-single (divorced / separated / married / widowed),34,high school,112458,skilled employee / official,0
+100000378,0,single,36,high school,96840,skilled employee / official,1
+100000379,0,single,57,university,281923,management / self-employed / highly qualified employee / officer,1
+100000380,1,non-single (divorced / separated / married / widowed),52,university,95551,unemployed / unskilled,0
+100000381,0,single,39,high school,112347,skilled employee / official,2
+100000382,1,non-single (divorced / separated / married / widowed),38,high school,260977,management / self-employed / highly qualified employee / officer,2
+100000383,1,non-single (divorced / separated / married / widowed),25,high school,99354,skilled employee / official,0
+100000384,0,single,26,other / unknown,111509,skilled employee / official,2
+100000385,0,single,26,other / unknown,105252,unemployed / unskilled,0
+100000386,1,non-single (divorced / separated / married / widowed),25,high school,108522,skilled employee / official,0
+100000387,1,non-single (divorced / separated / married / widowed),21,high school,94655,skilled employee / official,1
+100000388,0,single,40,high school,201699,management / self-employed / highly qualified employee / officer,1
+100000389,0,single,27,other / unknown,139868,skilled employee / official,2
+100000390,1,non-single (divorced / separated / married / widowed),27,high school,102543,skilled employee / official,1
+100000391,0,non-single (divorced / separated / married / widowed),30,high school,134467,management / self-employed / highly qualified employee / officer,2
+100000392,1,non-single (divorced / separated / married / widowed),19,high school,111187,unemployed / unskilled,0
+100000393,0,single,39,high school,152302,management / self-employed / highly qualified employee / officer,1
+100000394,1,non-single (divorced / separated / married / widowed),31,high school,110610,skilled employee / official,2
+100000395,0,single,31,other / unknown,137827,management / self-employed / highly qualified employee / officer,2
+100000396,0,single,32,other / unknown,220923,skilled employee / official,2
+100000397,1,non-single (divorced / separated / married / widowed),55,university,165717,management / self-employed / highly qualified employee / officer,2
+100000398,0,non-single (divorced / separated / married / widowed),46,university,122299,skilled employee / official,0
+100000399,0,non-single (divorced / separated / married / widowed),46,university,120499,skilled employee / official,0
+100000400,1,non-single (divorced / separated / married / widowed),43,university,126449,unemployed / unskilled,0
+100000401,0,non-single (divorced / separated / married / widowed),39,high school,108315,skilled employee / official,2
+100000402,0,non-single (divorced / separated / married / widowed),28,high school,112515,skilled employee / official,1
+100000403,0,single,27,other / unknown,164559,skilled employee / official,1
+100000404,0,single,27,other / unknown,59238,unemployed / unskilled,0
+100000405,0,single,43,high school,131133,skilled employee / official,0
+100000406,0,non-single (divorced / separated / married / widowed),22,high school,109188,skilled employee / official,0
+100000407,0,single,43,high school,115393,skilled employee / official,1
+100000408,0,non-single (divorced / separated / married / widowed),27,high school,94711,skilled employee / official,2
+100000409,0,non-single (divorced / separated / married / widowed),26,high school,171860,management / self-employed / highly qualified employee / officer,0
+100000410,0,non-single (divorced / separated / married / widowed),28,high school,139414,skilled employee / official,2
+100000411,1,non-single (divorced / separated / married / widowed),20,high school,110931,skilled employee / official,1
+100000412,0,single,35,high school,187549,management / self-employed / highly qualified employee / officer,2
+100000413,0,single,42,high school,145508,management / self-employed / highly qualified employee / officer,0
+100000414,0,single,40,high school,104240,unemployed / unskilled,0
+100000415,1,non-single (divorced / separated / married / widowed),35,high school,108272,skilled employee / official,1
+100000416,0,single,35,high school,144004,skilled employee / official,2
+100000417,0,single,33,high school,81083,unemployed / unskilled,0
+100000418,1,non-single (divorced / separated / married / widowed),23,high school,166763,skilled employee / official,1
+100000419,1,non-single (divorced / separated / married / widowed),31,high school,175530,management / self-employed / highly qualified employee / officer,1
+100000420,1,non-single (divorced / separated / married / widowed),33,high school,112422,skilled employee / official,1
+100000421,1,non-single (divorced / separated / married / widowed),20,high school,154134,skilled employee / official,2
+100000422,0,single,30,other / unknown,112401,skilled employee / official,1
+100000423,0,single,47,high school,85690,unemployed / unskilled,0
+100000424,0,single,34,high school,145896,management / self-employed / highly qualified employee / officer,2
+100000425,1,non-single (divorced / separated / married / widowed),25,high school,122552,skilled employee / official,2
+100000426,0,non-single (divorced / separated / married / widowed),21,high school,115494,skilled employee / official,2
+100000427,0,single,29,other / unknown,109467,skilled employee / official,0
+100000428,0,single,46,high school,148226,skilled employee / official,2
+100000429,0,single,20,other / unknown,88559,skilled employee / official,1
+100000430,1,non-single (divorced / separated / married / widowed),55,university,62393,unemployed / unskilled,0
+100000431,0,single,74,university,122133,unemployed / unskilled,0
+100000432,0,single,29,other / unknown,230883,management / self-employed / highly qualified employee / officer,2
+100000433,0,single,36,high school,136689,management / self-employed / highly qualified employee / officer,2
+100000434,0,non-single (divorced / separated / married / widowed),33,high school,109145,skilled employee / official,0
+100000435,0,single,25,other / unknown,100449,skilled employee / official,2
+100000436,0,non-single (divorced / separated / married / widowed),25,high school,106253,skilled employee / official,0
+100000437,0,non-single (divorced / separated / married / widowed),23,high school,84747,unemployed / unskilled,0
+100000438,1,non-single (divorced / separated / married / widowed),37,high school,149465,skilled employee / official,1
+100000439,0,single,65,university,84435,unemployed / unskilled,0
+100000440,1,non-single (divorced / separated / married / widowed),26,high school,51681,unemployed / unskilled,0
+100000441,0,single,39,high school,139198,management / self-employed / highly qualified employee / officer,1
+100000442,1,non-single (divorced / separated / married / widowed),30,high school,106577,skilled employee / official,1
+100000443,0,single,29,other / unknown,117372,skilled employee / official,2
+100000444,0,single,41,high school,69609,unemployed / unskilled,0
+100000445,1,non-single (divorced / separated / married / widowed),30,high school,178947,management / self-employed / highly qualified employee / officer,2
+100000446,1,non-single (divorced / separated / married / widowed),41,university,81743,unemployed / unskilled,0
+100000447,1,non-single (divorced / separated / married / widowed),34,high school,111900,skilled employee / official,1
+100000448,0,single,35,high school,121650,skilled employee / official,0
+100000449,1,non-single (divorced / separated / married / widowed),55,university,172639,management / self-employed / highly qualified employee / officer,2
+100000450,0,non-single (divorced / separated / married / widowed),61,university,175740,skilled employee / official,1
+100000451,0,single,30,other / unknown,220050,management / self-employed / highly qualified employee / officer,2
+100000452,1,non-single (divorced / separated / married / widowed),29,high school,95200,skilled employee / official,1
+100000453,0,single,34,high school,113609,skilled employee / official,1
+100000454,0,single,35,high school,143552,management / self-employed / highly qualified employee / officer,2
+100000455,0,single,31,other / unknown,130973,skilled employee / official,2
+100000456,1,non-single (divorced / separated / married / widowed),29,high school,145946,management / self-employed / highly qualified employee / officer,2
+100000457,0,single,36,high school,126206,skilled employee / official,1
+100000458,0,single,35,high school,120426,skilled employee / official,0
+100000459,1,non-single (divorced / separated / married / widowed),27,high school,91925,skilled employee / official,2
+100000460,0,single,32,other / unknown,129630,skilled employee / official,2
+100000461,0,single,37,high school,124268,skilled employee / official,2
+100000462,0,single,36,high school,105240,skilled employee / official,1
+100000463,1,non-single (divorced / separated / married / widowed),34,high school,162180,management / self-employed / highly qualified employee / officer,0
+100000464,0,single,38,high school,106552,skilled employee / official,2
+100000465,0,single,34,high school,105843,skilled employee / official,2
+100000466,0,single,63,university,138327,skilled employee / official,1
+100000467,1,non-single (divorced / separated / married / widowed),29,high school,76154,unemployed / unskilled,0
+100000468,0,single,32,other / unknown,155012,skilled employee / official,1
+100000469,1,non-single (divorced / separated / married / widowed),26,high school,114369,skilled employee / official,1
+100000470,0,single,35,high school,102839,unemployed / unskilled,0
+100000471,0,non-single (divorced / separated / married / widowed),22,high school,132796,skilled employee / official,0
+100000472,1,non-single (divorced / separated / married / widowed),23,high school,89742,skilled employee / official,2
+100000473,0,single,28,other / unknown,58615,unemployed / unskilled,0
+100000474,0,single,36,high school,130603,management / self-employed / highly qualified employee / officer,2
+100000475,0,non-single (divorced / separated / married / widowed),33,high school,110340,skilled employee / official,0
+100000476,1,non-single (divorced / separated / married / widowed),26,high school,117729,skilled employee / official,2
+100000477,0,single,24,other / unknown,130808,skilled employee / official,0
+100000478,0,single,25,other / unknown,147402,skilled employee / official,2
+100000479,0,single,39,high school,93567,unemployed / unskilled,0
+100000480,0,single,44,high school,109289,skilled employee / official,1
+100000481,1,non-single (divorced / separated / married / widowed),23,high school,98742,unemployed / unskilled,0
+100000482,0,single,26,other / unknown,101270,skilled employee / official,0
+100000483,1,non-single (divorced / separated / married / widowed),57,university,187835,skilled employee / official,1
+100000484,1,non-single (divorced / separated / married / widowed),30,high school,140741,skilled employee / official,0
+100000485,0,single,44,high school,133265,skilled employee / official,2
+100000486,0,single,47,high school,148100,management / self-employed / highly qualified employee / officer,2
+100000487,0,single,52,high school,131021,skilled employee / official,2
+100000488,1,non-single (divorced / separated / married / widowed),62,university,152620,skilled employee / official,2
+100000489,0,single,35,high school,85033,unemployed / unskilled,0
+100000490,0,single,26,other / unknown,114514,skilled employee / official,1
+100000491,0,single,26,other / unknown,99307,skilled employee / official,1
+100000492,1,non-single (divorced / separated / married / widowed),42,university,219451,management / self-employed / highly qualified employee / officer,2
+100000493,1,non-single (divorced / separated / married / widowed),27,high school,114007,skilled employee / official,0
+100000494,0,single,38,high school,102846,skilled employee / official,0
+100000495,0,single,39,high school,81483,unemployed / unskilled,0
+100000496,0,non-single (divorced / separated / married / widowed),20,high school,107779,skilled employee / official,2
+100000497,0,single,29,other / unknown,222360,management / self-employed / highly qualified employee / officer,2
+100000498,0,single,40,high school,107125,skilled employee / official,0
+100000499,0,non-single (divorced / separated / married / widowed),32,high school,80080,unemployed / unskilled,0
+100000500,0,non-single (divorced / separated / married / widowed),28,high school,129600,skilled employee / official,0
+100000501,1,non-single (divorced / separated / married / widowed),27,high school,118613,skilled employee / official,1
+100000502,0,single,42,high school,146237,skilled employee / official,1
+100000503,0,non-single (divorced / separated / married / widowed),49,university,144461,skilled employee / official,2
+100000504,0,single,38,high school,124487,skilled employee / official,0
+100000505,1,non-single (divorced / separated / married / widowed),24,high school,97826,skilled employee / official,0
+100000506,0,single,27,other / unknown,64105,unemployed / unskilled,0
+100000507,0,single,36,high school,156374,skilled employee / official,2
+100000508,0,single,34,high school,205383,management / self-employed / highly qualified employee / officer,2
+100000509,0,non-single (divorced / separated / married / widowed),28,high school,98964,skilled employee / official,2
+100000510,0,single,45,high school,221842,management / self-employed / highly qualified employee / officer,2
+100000511,0,single,26,other / unknown,88027,skilled employee / official,2
+100000512,0,single,32,other / unknown,160513,management / self-employed / highly qualified employee / officer,2
+100000513,0,single,26,other / unknown,124536,skilled employee / official,2
+100000514,0,non-single (divorced / separated / married / widowed),20,high school,93634,skilled employee / official,0
+100000515,0,single,54,high school,124725,skilled employee / official,0
+100000516,1,non-single (divorced / separated / married / widowed),37,high school,102456,skilled employee / official,0
+100000517,0,single,40,high school,74975,unemployed / unskilled,0
+100000518,1,non-single (divorced / separated / married / widowed),23,high school,153861,skilled employee / official,1
+100000519,0,single,43,high school,119351,skilled employee / official,2
+100000520,0,single,36,high school,95438,skilled employee / official,2
+100000521,0,single,44,high school,147967,skilled employee / official,2
+100000522,1,non-single (divorced / separated / married / widowed),24,high school,116863,skilled employee / official,1
+100000523,0,single,53,high school,170622,skilled employee / official,1
+100000524,1,non-single (divorced / separated / married / widowed),23,high school,132426,skilled employee / official,1
+100000525,1,non-single (divorced / separated / married / widowed),26,high school,77519,unemployed / unskilled,0
+100000526,0,single,30,other / unknown,169405,skilled employee / official,2
+100000527,1,non-single (divorced / separated / married / widowed),31,high school,120030,skilled employee / official,0
+100000528,0,single,42,high school,77933,unemployed / unskilled,0
+100000529,0,non-single (divorced / separated / married / widowed),31,high school,109892,skilled employee / official,1
+100000530,0,single,41,high school,69062,unemployed / unskilled,0
+100000531,0,single,32,other / unknown,116348,skilled employee / official,0
+100000532,1,non-single (divorced / separated / married / widowed),28,high school,137188,skilled employee / official,1
+100000533,0,non-single (divorced / separated / married / widowed),41,high school,110199,skilled employee / official,0
+100000534,0,non-single (divorced / separated / married / widowed),26,high school,109890,skilled employee / official,1
+100000535,0,single,25,other / unknown,109751,skilled employee / official,2
+100000536,0,non-single (divorced / separated / married / widowed),33,high school,129651,skilled employee / official,1
+100000537,1,non-single (divorced / separated / married / widowed),75,graduate school,170113,management / self-employed / highly qualified employee / officer,1
+100000538,1,non-single (divorced / separated / married / widowed),37,high school,140285,skilled employee / official,1
+100000539,0,single,42,high school,198029,management / self-employed / highly qualified employee / officer,2
+100000540,1,non-single (divorced / separated / married / widowed),45,university,120262,unemployed / unskilled,0
+100000541,0,non-single (divorced / separated / married / widowed),23,high school,105137,skilled employee / official,1
+100000542,0,single,60,university,127371,skilled employee / official,0
+100000543,0,single,31,other / unknown,145689,skilled employee / official,0
+100000544,0,single,34,high school,102617,unemployed / unskilled,1
+100000545,0,single,61,university,90709,unemployed / unskilled,0
+100000546,0,single,43,high school,107099,skilled employee / official,1
+100000547,1,non-single (divorced / separated / married / widowed),37,high school,116021,skilled employee / official,2
+100000548,0,single,32,other / unknown,100426,skilled employee / official,2
+100000549,1,non-single (divorced / separated / married / widowed),24,high school,62249,unemployed / unskilled,0
+100000550,0,single,35,high school,172957,skilled employee / official,1
+100000551,1,non-single (divorced / separated / married / widowed),23,high school,95003,skilled employee / official,1
+100000552,0,single,45,high school,109698,unemployed / unskilled,0
+100000553,0,non-single (divorced / separated / married / widowed),34,high school,157376,skilled employee / official,0
+100000554,0,single,27,other / unknown,123191,skilled employee / official,2
+100000555,1,non-single (divorced / separated / married / widowed),67,graduate school,171052,management / self-employed / highly qualified employee / officer,0
+100000556,0,single,22,other / unknown,99328,skilled employee / official,0
+100000557,1,non-single (divorced / separated / married / widowed),28,high school,133799,skilled employee / official,2
+100000558,1,non-single (divorced / separated / married / widowed),29,high school,138256,skilled employee / official,2
+100000559,0,single,27,other / unknown,115638,skilled employee / official,0
+100000560,0,single,31,other / unknown,82238,unemployed / unskilled,0
+100000561,0,single,49,high school,127543,skilled employee / official,1
+100000562,0,single,24,other / unknown,63987,unemployed / unskilled,0
+100000563,1,non-single (divorced / separated / married / widowed),29,high school,114784,skilled employee / official,0
+100000564,0,single,37,high school,217450,skilled employee / official,1
+100000565,0,single,37,high school,173751,management / self-employed / highly qualified employee / officer,2
+100000566,1,non-single (divorced / separated / married / widowed),23,high school,122850,skilled employee / official,0
+100000567,0,non-single (divorced / separated / married / widowed),36,high school,104953,skilled employee / official,0
+100000568,0,single,34,high school,152371,skilled employee / official,1
+100000569,0,single,41,high school,139905,skilled employee / official,0
+100000570,1,non-single (divorced / separated / married / widowed),31,high school,156700,skilled employee / official,1
+100000571,1,non-single (divorced / separated / married / widowed),23,high school,86488,unemployed / unskilled,0
+100000572,0,single,38,high school,147472,skilled employee / official,0
+100000573,1,non-single (divorced / separated / married / widowed),26,high school,169991,management / self-employed / highly qualified employee / officer,0
+100000574,1,non-single (divorced / separated / married / widowed),22,high school,62381,unemployed / unskilled,0
+100000575,0,single,27,other / unknown,70926,unemployed / unskilled,0
+100000576,1,non-single (divorced / separated / married / widowed),24,high school,113004,skilled employee / official,1
+100000577,1,non-single (divorced / separated / married / widowed),27,high school,125760,skilled employee / official,0
+100000578,1,non-single (divorced / separated / married / widowed),33,high school,111918,skilled employee / official,2
+100000579,0,non-single (divorced / separated / married / widowed),27,high school,120674,skilled employee / official,1
+100000580,0,non-single (divorced / separated / married / widowed),27,high school,63597,unemployed / unskilled,0
+100000581,0,single,30,other / unknown,103069,skilled employee / official,1
+100000582,0,single,49,high school,108079,unemployed / unskilled,0
+100000583,1,non-single (divorced / separated / married / widowed),26,high school,101159,skilled employee / official,1
+100000584,0,single,33,high school,88211,unemployed / unskilled,0
+100000585,1,non-single (divorced / separated / married / widowed),52,university,159052,management / self-employed / highly qualified employee / officer,1
+100000586,1,non-single (divorced / separated / married / widowed),20,high school,102623,skilled employee / official,2
+100000587,0,single,36,high school,115589,skilled employee / official,0
+100000588,0,single,21,other / unknown,59127,unemployed / unskilled,0
+100000589,0,non-single (divorced / separated / married / widowed),47,university,82240,unemployed / unskilled,0
+100000590,0,single,60,university,129425,skilled employee / official,1
+100000591,1,non-single (divorced / separated / married / widowed),58,university,87058,unemployed / unskilled,0
+100000592,1,non-single (divorced / separated / married / widowed),42,university,128462,skilled employee / official,2
+100000593,1,non-single (divorced / separated / married / widowed),36,high school,121403,unemployed / unskilled,0
+100000594,1,non-single (divorced / separated / married / widowed),20,high school,88141,unemployed / unskilled,0
+100000595,0,single,40,high school,134946,management / self-employed / highly qualified employee / officer,2
+100000596,1,non-single (divorced / separated / married / widowed),32,high school,94058,unemployed / unskilled,0
+100000597,1,non-single (divorced / separated / married / widowed),23,high school,99285,skilled employee / official,1
+100000598,0,single,36,high school,108432,unemployed / unskilled,0
+100000599,0,single,31,other / unknown,111369,skilled employee / official,0
+100000600,0,single,32,other / unknown,122612,skilled employee / official,2
+100000601,1,non-single (divorced / separated / married / widowed),45,university,134350,skilled employee / official,0
+100000602,1,non-single (divorced / separated / married / widowed),30,high school,108838,skilled employee / official,2
+100000603,1,non-single (divorced / separated / married / widowed),34,high school,90852,unemployed / unskilled,0
+100000604,1,non-single (divorced / separated / married / widowed),28,high school,151580,management / self-employed / highly qualified employee / officer,2
+100000605,1,non-single (divorced / separated / married / widowed),23,high school,115681,skilled employee / official,1
+100000606,0,single,22,other / unknown,131699,skilled employee / official,1
+100000607,0,single,74,university,192481,management / self-employed / highly qualified employee / officer,1
+100000608,1,non-single (divorced / separated / married / widowed),50,university,155122,skilled employee / official,2
+100000609,0,single,33,high school,106015,skilled employee / official,2
+100000610,0,single,45,high school,108378,skilled employee / official,0
+100000611,1,non-single (divorced / separated / married / widowed),22,high school,105257,skilled employee / official,1
+100000612,1,non-single (divorced / separated / married / widowed),48,university,118788,unemployed / unskilled,0
+100000613,1,non-single (divorced / separated / married / widowed),29,high school,162955,skilled employee / official,2
+100000614,1,non-single (divorced / separated / married / widowed),22,high school,119511,skilled employee / official,2
+100000615,1,non-single (divorced / separated / married / widowed),22,high school,102000,skilled employee / official,0
+100000616,0,single,48,high school,254449,management / self-employed / highly qualified employee / officer,1
+100000617,0,single,27,other / unknown,208446,management / self-employed / highly qualified employee / officer,2
+100000618,0,single,37,high school,124805,skilled employee / official,0
+100000619,1,non-single (divorced / separated / married / widowed),21,high school,139379,skilled employee / official,0
+100000620,0,non-single (divorced / separated / married / widowed),49,university,78296,unemployed / unskilled,0
+100000621,0,single,27,other / unknown,125598,skilled employee / official,1
+100000622,0,single,32,other / unknown,100215,skilled employee / official,2
+100000623,0,non-single (divorced / separated / married / widowed),38,high school,130951,skilled employee / official,2
+100000624,1,non-single (divorced / separated / married / widowed),22,high school,102480,skilled employee / official,2
+100000625,0,single,65,university,136812,skilled employee / official,1
+100000626,0,single,35,high school,106919,skilled employee / official,1
+100000627,0,single,41,high school,131020,skilled employee / official,2
+100000628,0,single,29,other / unknown,119429,skilled employee / official,1
+100000629,0,single,36,high school,154521,skilled employee / official,1
+100000630,0,single,64,university,117842,unemployed / unskilled,0
+100000631,1,non-single (divorced / separated / married / widowed),28,high school,124566,skilled employee / official,2
+100000632,0,single,44,high school,110009,skilled employee / official,2
+100000633,0,single,23,other / unknown,101210,skilled employee / official,1
+100000634,1,non-single (divorced / separated / married / widowed),19,high school,101258,skilled employee / official,0
+100000635,1,non-single (divorced / separated / married / widowed),25,high school,79045,unemployed / unskilled,0
+100000636,0,single,47,high school,110866,skilled employee / official,0
+100000637,1,non-single (divorced / separated / married / widowed),28,high school,129640,skilled employee / official,2
+100000638,0,single,21,other / unknown,227021,skilled employee / official,1
+100000639,1,non-single (divorced / separated / married / widowed),34,high school,108549,skilled employee / official,1
+100000640,0,single,26,other / unknown,122693,skilled employee / official,0
+100000641,1,non-single (divorced / separated / married / widowed),27,high school,35832,unemployed / unskilled,0
+100000642,0,single,38,high school,81870,unemployed / unskilled,0
+100000643,0,single,40,high school,179790,management / self-employed / highly qualified employee / officer,2
+100000644,0,non-single (divorced / separated / married / widowed),33,high school,107158,skilled employee / official,1
+100000645,0,non-single (divorced / separated / married / widowed),32,high school,136638,management / self-employed / highly qualified employee / officer,1
+100000646,0,single,27,other / unknown,158147,skilled employee / official,2
+100000647,0,non-single (divorced / separated / married / widowed),32,high school,132587,skilled employee / official,2
+100000648,1,non-single (divorced / separated / married / widowed),26,high school,128140,skilled employee / official,2
+100000649,0,single,38,high school,117405,skilled employee / official,1
+100000650,0,single,40,high school,68475,unemployed / unskilled,0
+100000651,0,single,50,high school,201656,management / self-employed / highly qualified employee / officer,2
+100000652,0,single,37,high school,86967,unemployed / unskilled,0
+100000653,0,single,45,high school,118006,skilled employee / official,1
+100000654,0,single,42,high school,223630,management / self-employed / highly qualified employee / officer,2
+100000655,0,single,35,high school,110442,skilled employee / official,0
+100000656,0,single,22,other / unknown,115691,skilled employee / official,2
+100000657,0,single,41,high school,80232,unemployed / unskilled,0
+100000658,0,single,37,high school,187647,skilled employee / official,1
+100000659,1,non-single (divorced / separated / married / widowed),28,high school,138952,skilled employee / official,1
+100000660,0,single,41,high school,162772,skilled employee / official,2
+100000661,0,non-single (divorced / separated / married / widowed),23,high school,111862,skilled employee / official,1
+100000662,0,non-single (divorced / separated / married / widowed),23,high school,90051,skilled employee / official,1
+100000663,0,single,50,high school,121400,skilled employee / official,1
+100000664,0,single,35,high school,137000,management / self-employed / highly qualified employee / officer,2
+100000665,1,non-single (divorced / separated / married / widowed),50,university,105031,unemployed / unskilled,0
+100000666,0,single,27,other / unknown,172153,management / self-employed / highly qualified employee / officer,2
+100000667,0,single,34,high school,170184,skilled employee / official,1
+100000668,1,non-single (divorced / separated / married / widowed),27,high school,123279,skilled employee / official,1
+100000669,0,single,43,high school,140795,skilled employee / official,0
+100000670,0,single,47,high school,144456,skilled employee / official,0
+100000671,0,single,27,other / unknown,104773,unemployed / unskilled,0
+100000672,0,single,31,other / unknown,153353,skilled employee / official,1
+100000673,0,single,42,high school,223018,management / self-employed / highly qualified employee / officer,1
+100000674,0,non-single (divorced / separated / married / widowed),24,high school,129177,skilled employee / official,2
+100000675,0,single,41,high school,114475,unemployed / unskilled,1
+100000676,1,non-single (divorced / separated / married / widowed),26,high school,161323,management / self-employed / highly qualified employee / officer,1
+100000677,0,single,33,high school,135765,skilled employee / official,2
+100000678,0,non-single (divorced / separated / married / widowed),24,high school,158421,skilled employee / official,0
+100000679,0,single,64,university,103941,unemployed / unskilled,0
+100000680,1,non-single (divorced / separated / married / widowed),26,high school,101783,skilled employee / official,2
+100000681,1,non-single (divorced / separated / married / widowed),56,university,126531,skilled employee / official,1
+100000682,0,single,37,high school,111394,skilled employee / official,1
+100000683,0,non-single (divorced / separated / married / widowed),33,high school,103577,skilled employee / official,2
+100000684,0,non-single (divorced / separated / married / widowed),47,university,149545,skilled employee / official,1
+100000685,0,single,31,other / unknown,171857,unemployed / unskilled,0
+100000686,0,single,34,high school,149782,skilled employee / official,1
+100000687,0,single,27,other / unknown,112470,skilled employee / official,1
+100000688,0,single,30,other / unknown,133907,skilled employee / official,2
+100000689,0,single,35,high school,127849,skilled employee / official,1
+100000690,0,single,31,other / unknown,160279,skilled employee / official,2
+100000691,0,non-single (divorced / separated / married / widowed),25,high school,92366,skilled employee / official,2
+100000692,1,non-single (divorced / separated / married / widowed),25,high school,104794,unemployed / unskilled,0
+100000693,0,single,29,other / unknown,133436,skilled employee / official,1
+100000694,0,single,44,high school,110374,unemployed / unskilled,0
+100000695,0,single,28,other / unknown,104263,skilled employee / official,1
+100000696,0,single,50,high school,138752,skilled employee / official,0
+100000697,0,single,29,other / unknown,102723,skilled employee / official,0
+100000698,1,non-single (divorced / separated / married / widowed),38,high school,46297,unemployed / unskilled,0
+100000699,0,single,24,other / unknown,96425,skilled employee / official,1
+100000700,0,single,40,high school,158197,management / self-employed / highly qualified employee / officer,1
+100000701,1,non-single (divorced / separated / married / widowed),29,high school,98008,unemployed / unskilled,0
+100000702,0,single,46,high school,157473,skilled employee / official,0
+100000703,1,non-single (divorced / separated / married / widowed),47,university,149306,skilled employee / official,0
+100000704,0,single,41,high school,139236,skilled employee / official,1
+100000705,1,non-single (divorced / separated / married / widowed),32,high school,125890,skilled employee / official,2
+100000706,1,non-single (divorced / separated / married / widowed),35,high school,173124,skilled employee / official,1
+100000707,0,single,24,other / unknown,164621,skilled employee / official,1
+100000708,1,non-single (divorced / separated / married / widowed),25,high school,124539,skilled employee / official,1
+100000709,1,non-single (divorced / separated / married / widowed),25,high school,107614,skilled employee / official,1
+100000710,0,single,37,high school,88849,unemployed / unskilled,0
+100000711,0,single,32,other / unknown,148566,management / self-employed / highly qualified employee / officer,2
+100000712,1,non-single (divorced / separated / married / widowed),35,high school,106515,skilled employee / official,2
+100000713,0,single,46,high school,150465,management / self-employed / highly qualified employee / officer,1
+100000714,0,single,25,other / unknown,60868,unemployed / unskilled,0
+100000715,0,single,27,other / unknown,255198,management / self-employed / highly qualified employee / officer,2
+100000716,0,single,63,university,183178,skilled employee / official,1
+100000717,0,single,40,high school,121448,skilled employee / official,2
+100000718,0,single,32,other / unknown,129975,management / self-employed / highly qualified employee / officer,2
+100000719,0,single,31,other / unknown,132950,skilled employee / official,2
+100000720,0,non-single (divorced / separated / married / widowed),31,high school,169314,skilled employee / official,1
+100000721,0,single,34,high school,147958,management / self-employed / highly qualified employee / officer,1
+100000722,1,non-single (divorced / separated / married / widowed),24,high school,139896,skilled employee / official,2
+100000723,1,non-single (divorced / separated / married / widowed),24,high school,68028,unemployed / unskilled,0
+100000724,1,non-single (divorced / separated / married / widowed),66,graduate school,133328,unemployed / unskilled,0
+100000725,1,non-single (divorced / separated / married / widowed),21,high school,108518,skilled employee / official,2
+100000726,1,non-single (divorced / separated / married / widowed),41,university,112700,unemployed / unskilled,0
+100000727,0,non-single (divorced / separated / married / widowed),47,university,110190,unemployed / unskilled,0
+100000728,1,non-single (divorced / separated / married / widowed),25,high school,105104,skilled employee / official,1
+100000729,1,non-single (divorced / separated / married / widowed),59,university,184753,skilled employee / official,1
+100000730,0,non-single (divorced / separated / married / widowed),36,high school,162521,skilled employee / official,2
+100000731,0,single,33,high school,156794,skilled employee / official,1
+100000732,0,single,21,other / unknown,65827,unemployed / unskilled,0
+100000733,1,non-single (divorced / separated / married / widowed),44,university,88490,unemployed / unskilled,0
+100000734,1,non-single (divorced / separated / married / widowed),28,high school,154919,skilled employee / official,2
+100000735,1,non-single (divorced / separated / married / widowed),37,high school,129058,skilled employee / official,0
+100000736,1,non-single (divorced / separated / married / widowed),29,high school,77532,unemployed / unskilled,0
+100000737,1,non-single (divorced / separated / married / widowed),23,high school,235417,management / self-employed / highly qualified employee / officer,2
+100000738,0,single,35,high school,113468,unemployed / unskilled,0
+100000739,0,single,45,high school,190803,management / self-employed / highly qualified employee / officer,2
+100000740,1,non-single (divorced / separated / married / widowed),26,high school,121423,unemployed / unskilled,0
+100000741,0,single,32,other / unknown,121347,skilled employee / official,1
+100000742,0,single,23,other / unknown,67408,unemployed / unskilled,0
+100000743,0,single,41,high school,123043,skilled employee / official,1
+100000744,0,single,22,other / unknown,128387,skilled employee / official,2
+100000745,0,single,30,other / unknown,250050,management / self-employed / highly qualified employee / officer,1
+100000746,0,single,28,other / unknown,69588,unemployed / unskilled,0
+100000747,1,non-single (divorced / separated / married / widowed),23,high school,109547,skilled employee / official,1
+100000748,1,non-single (divorced / separated / married / widowed),37,high school,78840,unemployed / unskilled,0
+100000749,0,single,26,other / unknown,131122,skilled employee / official,0
+100000750,0,single,33,high school,115403,skilled employee / official,1
+100000751,1,non-single (divorced / separated / married / widowed),49,university,110291,skilled employee / official,2
+100000752,1,non-single (divorced / separated / married / widowed),23,high school,64811,unemployed / unskilled,0
+100000753,1,non-single (divorced / separated / married / widowed),23,high school,86015,unemployed / unskilled,0
+100000754,1,non-single (divorced / separated / married / widowed),25,high school,142438,skilled employee / official,2
+100000755,0,single,55,high school,159303,skilled employee / official,1
+100000756,1,non-single (divorced / separated / married / widowed),32,high school,104957,skilled employee / official,1
+100000757,0,single,74,university,89502,unemployed / unskilled,0
+100000758,0,single,39,high school,121313,skilled employee / official,1
+100000759,0,single,31,other / unknown,98102,skilled employee / official,0
+100000760,0,single,35,high school,94554,skilled employee / official,1
+100000761,1,non-single (divorced / separated / married / widowed),59,university,162591,skilled employee / official,1
+100000762,1,non-single (divorced / separated / married / widowed),24,high school,106629,skilled employee / official,2
+100000763,0,single,24,other / unknown,70400,unemployed / unskilled,0
+100000764,0,single,30,other / unknown,235660,management / self-employed / highly qualified employee / officer,2
+100000765,0,non-single (divorced / separated / married / widowed),27,high school,121747,skilled employee / official,2
+100000766,0,non-single (divorced / separated / married / widowed),40,high school,85060,unemployed / unskilled,0
+100000767,0,non-single (divorced / separated / married / widowed),31,high school,87630,unemployed / unskilled,0
+100000768,1,non-single (divorced / separated / married / widowed),31,high school,119673,skilled employee / official,0
+100000769,0,single,28,other / unknown,126060,skilled employee / official,2
+100000770,0,single,63,university,96145,unemployed / unskilled,0
+100000771,1,non-single (divorced / separated / married / widowed),26,high school,114830,skilled employee / official,0
+100000772,1,non-single (divorced / separated / married / widowed),25,high school,194461,management / self-employed / highly qualified employee / officer,2
+100000773,0,single,36,high school,150158,management / self-employed / highly qualified employee / officer,2
+100000774,0,single,52,high school,136323,skilled employee / official,2
+100000775,0,single,66,university,111858,unemployed / unskilled,0
+100000776,1,non-single (divorced / separated / married / widowed),25,high school,100198,skilled employee / official,0
+100000777,0,single,37,high school,123452,skilled employee / official,2
+100000778,1,non-single (divorced / separated / married / widowed),25,high school,120723,skilled employee / official,1
+100000779,0,single,38,high school,215639,management / self-employed / highly qualified employee / officer,1
+100000780,1,non-single (divorced / separated / married / widowed),67,graduate school,166712,skilled employee / official,1
+100000781,0,single,25,other / unknown,136300,skilled employee / official,1
+100000782,0,single,60,university,166988,skilled employee / official,2
+100000783,0,single,31,other / unknown,77265,unemployed / unskilled,0
+100000784,1,non-single (divorced / separated / married / widowed),23,high school,85967,unemployed / unskilled,0
+100000785,0,non-single (divorced / separated / married / widowed),60,university,212020,management / self-employed / highly qualified employee / officer,0
+100000786,0,single,35,high school,126054,unemployed / unskilled,0
+100000787,0,single,40,high school,144589,skilled employee / official,0
+100000788,0,single,38,high school,116723,skilled employee / official,1
+100000789,0,single,50,high school,168637,skilled employee / official,1
+100000790,0,single,27,other / unknown,139119,skilled employee / official,1
+100000791,1,non-single (divorced / separated / married / widowed),39,university,118610,skilled employee / official,2
+100000792,0,single,41,high school,183312,management / self-employed / highly qualified employee / officer,2
+100000793,0,non-single (divorced / separated / married / widowed),27,high school,96323,skilled employee / official,0
+100000794,0,non-single (divorced / separated / married / widowed),51,university,149510,skilled employee / official,2
+100000795,0,single,32,other / unknown,141922,skilled employee / official,2
+100000796,1,non-single (divorced / separated / married / widowed),22,high school,120233,skilled employee / official,0
+100000797,0,single,51,high school,172790,skilled employee / official,1
+100000798,1,non-single (divorced / separated / married / widowed),22,high school,66720,unemployed / unskilled,0
+100000799,0,non-single (divorced / separated / married / widowed),54,university,113024,skilled employee / official,1
+100000800,0,single,35,high school,51791,unemployed / unskilled,0
+100000801,0,single,54,high school,118408,skilled employee / official,2
+100000802,1,non-single (divorced / separated / married / widowed),48,university,101616,unemployed / unskilled,0
+100000803,1,non-single (divorced / separated / married / widowed),24,high school,127250,skilled employee / official,0
+100000804,0,single,35,high school,97290,skilled employee / official,0
+100000805,1,non-single (divorced / separated / married / widowed),24,high school,106970,unemployed / unskilled,0
+100000806,0,single,24,other / unknown,168147,skilled employee / official,2
+100000807,0,non-single (divorced / separated / married / widowed),26,high school,68468,unemployed / unskilled,0
+100000808,0,single,65,university,120780,skilled employee / official,2
+100000809,0,single,55,high school,231992,management / self-employed / highly qualified employee / officer,2
+100000810,1,non-single (divorced / separated / married / widowed),26,high school,53903,unemployed / unskilled,0
+100000811,0,non-single (divorced / separated / married / widowed),26,high school,101511,skilled employee / official,2
+100000812,0,non-single (divorced / separated / married / widowed),28,high school,69046,unemployed / unskilled,0
+100000813,0,single,24,other / unknown,171584,skilled employee / official,1
+100000814,0,single,54,high school,132367,skilled employee / official,2
+100000815,0,single,46,high school,134433,skilled employee / official,2
+100000816,1,non-single (divorced / separated / married / widowed),54,university,190518,skilled employee / official,0
+100000817,0,non-single (divorced / separated / married / widowed),62,university,152367,skilled employee / official,1
+100000818,1,non-single (divorced / separated / married / widowed),24,high school,101157,skilled employee / official,1
+100000819,0,non-single (divorced / separated / married / widowed),43,university,279593,management / self-employed / highly qualified employee / officer,2
+100000820,0,non-single (divorced / separated / married / widowed),26,high school,96716,skilled employee / official,2
+100000821,0,non-single (divorced / separated / married / widowed),27,high school,95171,skilled employee / official,0
+100000822,0,non-single (divorced / separated / married / widowed),24,high school,129162,skilled employee / official,2
+100000823,0,single,41,high school,118742,skilled employee / official,0
+100000824,0,single,47,high school,74511,unemployed / unskilled,0
+100000825,0,non-single (divorced / separated / married / widowed),35,high school,157272,management / self-employed / highly qualified employee / officer,1
+100000826,0,non-single (divorced / separated / married / widowed),30,high school,102374,skilled employee / official,0
+100000827,1,non-single (divorced / separated / married / widowed),33,high school,131492,skilled employee / official,0
+100000828,0,single,36,high school,128702,skilled employee / official,2
+100000829,0,single,47,high school,177509,skilled employee / official,2
+100000830,0,single,38,high school,163451,skilled employee / official,1
+100000831,0,single,44,high school,144900,skilled employee / official,1
+100000832,1,non-single (divorced / separated / married / widowed),23,high school,97115,skilled employee / official,2
+100000833,0,single,29,other / unknown,196568,skilled employee / official,2
+100000834,1,non-single (divorced / separated / married / widowed),42,university,158405,skilled employee / official,0
+100000835,1,non-single (divorced / separated / married / widowed),25,high school,97376,unemployed / unskilled,0
+100000836,0,single,48,high school,108678,skilled employee / official,1
+100000837,1,non-single (divorced / separated / married / widowed),21,high school,92351,skilled employee / official,0
+100000838,1,non-single (divorced / separated / married / widowed),23,high school,61211,unemployed / unskilled,0
+100000839,0,single,63,university,138644,skilled employee / official,0
+100000840,0,non-single (divorced / separated / married / widowed),46,university,124824,skilled employee / official,2
+100000841,0,single,29,other / unknown,132852,skilled employee / official,0
+100000842,0,single,28,other / unknown,81069,unemployed / unskilled,0
+100000843,1,non-single (divorced / separated / married / widowed),23,high school,104094,skilled employee / official,2
+100000844,0,single,50,high school,114853,skilled employee / official,0
+100000845,0,single,47,high school,130344,skilled employee / official,2
+100000846,0,single,35,high school,135090,skilled employee / official,0
+100000847,0,single,68,university,179151,skilled employee / official,2
+100000848,0,non-single (divorced / separated / married / widowed),28,high school,97390,skilled employee / official,1
+100000849,0,single,59,university,120160,skilled employee / official,0
+100000850,0,single,57,university,82277,unemployed / unskilled,0
+100000851,0,non-single (divorced / separated / married / widowed),33,high school,110844,skilled employee / official,2
+100000852,0,single,43,high school,133105,skilled employee / official,0
+100000853,0,single,35,high school,102042,skilled employee / official,0
+100000854,0,single,32,other / unknown,69370,unemployed / unskilled,0
+100000855,0,single,45,high school,200298,skilled employee / official,1
+100000856,0,non-single (divorced / separated / married / widowed),33,high school,117039,skilled employee / official,2
+100000857,1,non-single (divorced / separated / married / widowed),40,university,107585,skilled employee / official,2
+100000858,0,single,28,other / unknown,114429,skilled employee / official,0
+100000859,1,non-single (divorced / separated / married / widowed),29,high school,128234,skilled employee / official,2
+100000860,0,single,26,other / unknown,128580,skilled employee / official,2
+100000861,0,single,27,other / unknown,177757,skilled employee / official,1
+100000862,0,non-single (divorced / separated / married / widowed),28,high school,106222,skilled employee / official,0
+100000863,1,non-single (divorced / separated / married / widowed),35,high school,118428,skilled employee / official,2
+100000864,0,single,32,other / unknown,139477,unemployed / unskilled,0
+100000865,0,single,25,other / unknown,71159,unemployed / unskilled,0
+100000866,1,non-single (divorced / separated / married / widowed),20,high school,131370,skilled employee / official,2
+100000867,1,non-single (divorced / separated / married / widowed),27,high school,111567,skilled employee / official,2
+100000868,0,single,42,high school,125482,skilled employee / official,2
+100000869,0,single,37,high school,160642,skilled employee / official,2
+100000870,1,non-single (divorced / separated / married / widowed),24,high school,92498,skilled employee / official,0
+100000871,1,non-single (divorced / separated / married / widowed),40,university,199711,skilled employee / official,2
+100000872,0,single,46,high school,127588,skilled employee / official,2
+100000873,0,single,26,other / unknown,107508,skilled employee / official,2
+100000874,1,non-single (divorced / separated / married / widowed),24,high school,94629,skilled employee / official,2
+100000875,0,single,29,other / unknown,87598,unemployed / unskilled,2
+100000876,1,non-single (divorced / separated / married / widowed),40,university,161194,skilled employee / official,1
+100000877,0,single,36,high school,137342,management / self-employed / highly qualified employee / officer,2
+100000878,0,single,28,other / unknown,116848,skilled employee / official,1
+100000879,0,single,27,other / unknown,125190,management / self-employed / highly qualified employee / officer,1
+100000880,0,single,36,high school,153441,skilled employee / official,0
+100000881,0,single,38,high school,195328,management / self-employed / highly qualified employee / officer,2
+100000882,0,non-single (divorced / separated / married / widowed),48,university,190413,skilled employee / official,0
+100000883,0,single,36,high school,118656,skilled employee / official,1
+100000884,1,non-single (divorced / separated / married / widowed),65,graduate school,69487,unemployed / unskilled,0
+100000885,0,non-single (divorced / separated / married / widowed),43,university,145313,skilled employee / official,1
+100000886,1,non-single (divorced / separated / married / widowed),53,university,117005,skilled employee / official,1
+100000887,0,single,34,high school,123243,skilled employee / official,1
+100000888,0,single,23,other / unknown,237799,skilled employee / official,1
+100000889,0,single,34,high school,180617,management / self-employed / highly qualified employee / officer,2
+100000890,0,single,40,high school,167019,skilled employee / official,0
+100000891,0,single,43,high school,147745,management / self-employed / highly qualified employee / officer,2
+100000892,0,single,46,high school,114254,skilled employee / official,1
+100000893,0,single,38,high school,81155,unemployed / unskilled,0
+100000894,0,single,34,high school,151803,skilled employee / official,2
+100000895,0,single,29,other / unknown,94356,skilled employee / official,2
+100000896,0,single,31,other / unknown,200621,management / self-employed / highly qualified employee / officer,2
+100000897,1,non-single (divorced / separated / married / widowed),28,high school,144448,management / self-employed / highly qualified employee / officer,1
+100000898,1,non-single (divorced / separated / married / widowed),35,high school,150797,skilled employee / official,0
+100000899,1,non-single (divorced / separated / married / widowed),33,high school,84404,unemployed / unskilled,0
+100000900,0,single,42,high school,133373,skilled employee / official,2
+100000901,0,single,43,high school,119502,skilled employee / official,2
+100000902,0,non-single (divorced / separated / married / widowed),44,university,131619,skilled employee / official,0
+100000903,0,single,42,high school,194084,skilled employee / official,2
+100000904,0,non-single (divorced / separated / married / widowed),40,high school,108278,skilled employee / official,1
+100000905,0,single,36,high school,130987,management / self-employed / highly qualified employee / officer,1
+100000906,0,single,20,other / unknown,116582,management / self-employed / highly qualified employee / officer,2
+100000907,0,single,24,other / unknown,85270,unemployed / unskilled,0
+100000908,0,non-single (divorced / separated / married / widowed),27,high school,129227,skilled employee / official,0
+100000909,1,non-single (divorced / separated / married / widowed),46,university,108291,unemployed / unskilled,0
+100000910,1,non-single (divorced / separated / married / widowed),33,high school,103091,unemployed / unskilled,0
+100000911,1,non-single (divorced / separated / married / widowed),34,high school,136975,skilled employee / official,1
+100000912,1,non-single (divorced / separated / married / widowed),25,high school,111502,unemployed / unskilled,0
+100000913,1,non-single (divorced / separated / married / widowed),25,high school,124750,skilled employee / official,1
+100000914,0,non-single (divorced / separated / married / widowed),28,high school,146463,skilled employee / official,2
+100000915,0,single,31,other / unknown,115075,skilled employee / official,0
+100000916,1,non-single (divorced / separated / married / widowed),32,high school,308491,management / self-employed / highly qualified employee / officer,1
+100000917,0,single,32,other / unknown,126368,skilled employee / official,0
+100000918,0,single,68,university,287247,management / self-employed / highly qualified employee / officer,2
+100000919,0,non-single (divorced / separated / married / widowed),33,high school,125535,skilled employee / official,2
+100000920,0,single,39,high school,153223,management / self-employed / highly qualified employee / officer,2
+100000921,1,non-single (divorced / separated / married / widowed),28,high school,106873,skilled employee / official,1
+100000922,0,single,37,high school,268906,management / self-employed / highly qualified employee / officer,1
+100000923,1,non-single (divorced / separated / married / widowed),22,high school,97757,skilled employee / official,2
+100000924,0,single,30,other / unknown,112151,skilled employee / official,1
+100000925,0,non-single (divorced / separated / married / widowed),55,university,172909,skilled employee / official,0
+100000926,0,single,46,high school,103387,skilled employee / official,1
+100000927,1,non-single (divorced / separated / married / widowed),21,high school,93916,skilled employee / official,2
+100000928,0,single,39,high school,189963,skilled employee / official,2
+100000929,0,single,58,university,124191,skilled employee / official,0
+100000930,0,single,43,high school,77205,unemployed / unskilled,0
+100000931,0,single,24,other / unknown,65917,unemployed / unskilled,0
+100000932,1,non-single (divorced / separated / married / widowed),22,high school,109676,skilled employee / official,0
+100000933,0,single,30,other / unknown,95682,skilled employee / official,2
+100000934,0,single,42,high school,125516,skilled employee / official,2
+100000935,1,non-single (divorced / separated / married / widowed),23,high school,99822,skilled employee / official,0
+100000936,0,single,30,other / unknown,154854,management / self-employed / highly qualified employee / officer,1
+100000937,1,non-single (divorced / separated / married / widowed),28,high school,84582,unemployed / unskilled,0
+100000938,0,non-single (divorced / separated / married / widowed),30,high school,145800,management / self-employed / highly qualified employee / officer,0
+100000939,0,single,42,high school,162869,skilled employee / official,1
+100000940,0,single,46,high school,192379,management / self-employed / highly qualified employee / officer,2
+100000941,0,single,45,high school,159757,management / self-employed / highly qualified employee / officer,2
+100000942,0,single,31,other / unknown,69571,unemployed / unskilled,0
+100000943,0,single,31,other / unknown,93648,skilled employee / official,2
+100000944,0,single,42,high school,77472,unemployed / unskilled,0
+100000945,1,non-single (divorced / separated / married / widowed),46,university,121501,skilled employee / official,0
+100000946,1,non-single (divorced / separated / married / widowed),30,high school,207262,skilled employee / official,0
+100000947,0,single,30,other / unknown,143082,skilled employee / official,2
+100000948,0,single,38,high school,147760,management / self-employed / highly qualified employee / officer,1
+100000949,0,non-single (divorced / separated / married / widowed),43,university,82082,unemployed / unskilled,0
+100000950,0,single,31,other / unknown,132991,skilled employee / official,1
+100000951,0,non-single (divorced / separated / married / widowed),40,high school,78436,unemployed / unskilled,0
+100000952,0,single,24,other / unknown,99737,skilled employee / official,2
+100000953,1,non-single (divorced / separated / married / widowed),28,high school,164915,skilled employee / official,0
+100000954,1,non-single (divorced / separated / married / widowed),26,high school,223185,management / self-employed / highly qualified employee / officer,1
+100000955,1,non-single (divorced / separated / married / widowed),29,high school,108400,skilled employee / official,2
+100000956,1,non-single (divorced / separated / married / widowed),57,university,194882,management / self-employed / highly qualified employee / officer,1
+100000957,0,single,49,high school,122186,unemployed / unskilled,0
+100000958,0,single,37,high school,79594,unemployed / unskilled,0
+100000959,0,single,45,high school,104355,unemployed / unskilled,0
+100000960,0,single,30,other / unknown,135894,skilled employee / official,2
+100000961,0,non-single (divorced / separated / married / widowed),30,high school,103699,skilled employee / official,1
+100000962,0,non-single (divorced / separated / married / widowed),47,university,132145,skilled employee / official,1
+100000963,0,single,29,other / unknown,117272,skilled employee / official,2
+100000964,0,single,35,high school,137932,skilled employee / official,0
+100000965,0,non-single (divorced / separated / married / widowed),22,high school,63972,unemployed / unskilled,0
+100000966,1,non-single (divorced / separated / married / widowed),26,high school,113299,skilled employee / official,2
+100000967,0,single,23,other / unknown,108540,unemployed / unskilled,0
+100000968,1,non-single (divorced / separated / married / widowed),54,university,174424,management / self-employed / highly qualified employee / officer,2
+100000969,0,non-single (divorced / separated / married / widowed),29,high school,154991,skilled employee / official,2
+100000970,0,single,40,high school,99723,unemployed / unskilled,0
+100000971,0,single,22,other / unknown,114584,skilled employee / official,2
+100000972,0,single,43,high school,135275,unemployed / unskilled,0
+100000973,1,non-single (divorced / separated / married / widowed),29,high school,41680,unemployed / unskilled,0
+100000974,0,single,36,high school,158769,skilled employee / official,1
+100000975,1,non-single (divorced / separated / married / widowed),33,high school,120596,skilled employee / official,0
+100000976,1,non-single (divorced / separated / married / widowed),57,university,139641,unemployed / unskilled,0
+100000977,1,non-single (divorced / separated / married / widowed),64,graduate school,134377,skilled employee / official,0
+100000978,0,single,42,high school,125804,skilled employee / official,2
+100000979,0,single,47,high school,91858,unemployed / unskilled,0
+100000980,0,non-single (divorced / separated / married / widowed),25,high school,117641,skilled employee / official,2
+100000981,0,single,49,high school,188594,skilled employee / official,1
+100000982,0,single,33,high school,162827,management / self-employed / highly qualified employee / officer,2
+100000983,1,non-single (divorced / separated / married / widowed),28,high school,178991,management / self-employed / highly qualified employee / officer,2
+100000984,0,single,26,other / unknown,159739,skilled employee / official,1
+100000985,0,single,30,other / unknown,73401,unemployed / unskilled,0
+100000986,1,non-single (divorced / separated / married / widowed),25,high school,100794,skilled employee / official,2
+100000987,0,non-single (divorced / separated / married / widowed),33,high school,167763,skilled employee / official,1
+100000988,1,non-single (divorced / separated / married / widowed),64,graduate school,145174,skilled employee / official,0
+100000989,0,single,29,other / unknown,176292,management / self-employed / highly qualified employee / officer,1
+100000990,0,single,48,high school,94024,unemployed / unskilled,0
+100000991,0,single,37,high school,93740,unemployed / unskilled,0
+100000992,0,single,34,high school,85685,unemployed / unskilled,0
+100000993,0,non-single (divorced / separated / married / widowed),23,high school,69997,unemployed / unskilled,0
+100000994,0,single,30,other / unknown,151938,management / self-employed / highly qualified employee / officer,2
+100000995,0,single,50,high school,122830,skilled employee / official,1
+100000996,1,non-single (divorced / separated / married / widowed),31,high school,78489,unemployed / unskilled,0
+100000997,0,non-single (divorced / separated / married / widowed),40,high school,161999,management / self-employed / highly qualified employee / officer,1
+100000998,0,single,38,high school,98032,skilled employee / official,2
+100000999,0,single,23,other / unknown,96060,skilled employee / official,0
+100001000,0,single,27,other / unknown,147968,skilled employee / official,1
+100001001,1,non-single (divorced / separated / married / widowed),63,university,134853,skilled employee / official,1
+100001002,0,single,66,university,157576,management / self-employed / highly qualified employee / officer,2
+100001003,0,non-single (divorced / separated / married / widowed),43,university,203738,management / self-employed / highly qualified employee / officer,1
+100001004,0,non-single (divorced / separated / married / widowed),44,university,280570,management / self-employed / highly qualified employee / officer,2
+100001005,0,non-single (divorced / separated / married / widowed),65,graduate school,69487,unemployed / unskilled,2
+100001006,1,non-single (divorced / separated / married / widowed),73,graduate school,214126,management / self-employed / highly qualified employee / officer,1
+100001007,0,single,60,university,136671,skilled employee / official,1
+100001008,0,non-single (divorced / separated / married / widowed),62,university,174337,skilled employee / official,1
+100001009,1,non-single (divorced / separated / married / widowed),58,university,126710,skilled employee / official,1
+100001010,1,non-single (divorced / separated / married / widowed),43,university,167139,management / self-employed / highly qualified employee / officer,2
+100001011,0,single,64,university,122094,skilled employee / official,2
+100001012,0,non-single (divorced / separated / married / widowed),37,graduate school,170113,management / self-employed / highly qualified employee / officer,2
+100001013,1,non-single (divorced / separated / married / widowed),46,university,192698,management / self-employed / highly qualified employee / officer,1
+100001014,0,non-single (divorced / separated / married / widowed),57,university,144197,skilled employee / official,2
+100001015,0,non-single (divorced / separated / married / widowed),51,university,133623,skilled employee / official,1
+100001016,1,non-single (divorced / separated / married / widowed),32,graduate school,171052,management / self-employed / highly qualified employee / officer,2
+100001017,0,single,64,university,130492,skilled employee / official,2
+100001018,0,single,68,university,135705,skilled employee / official,1
+100001019,1,non-single (divorced / separated / married / widowed),55,university,171804,management / self-employed / highly qualified employee / officer,2
+100001020,0,single,73,university,192167,management / self-employed / highly qualified employee / officer,1
+100001021,1,non-single (divorced / separated / married / widowed),34,graduate school,134377,skilled employee / official,2
+100001022,0,non-single (divorced / separated / married / widowed),44,university,146716,skilled employee / official,1
+100001023,0,single,58,university,267872,skilled employee / official,1
+100001024,1,non-single (divorced / separated / married / widowed),65,university,142193,unemployed / unskilled,1
+100001025,1,non-single (divorced / separated / married / widowed),56,university,183765,skilled employee / official,1
+100001026,1,non-single (divorced / separated / married / widowed),42,university,218664,management / self-employed / highly qualified employee / officer,2
+100001027,1,non-single (divorced / separated / married / widowed),65,graduate school,145174,skilled employee / official,2
+100001028,0,single,72,university,224961,management / self-employed / highly qualified employee / officer,2
+100001029,1,non-single (divorced / separated / married / widowed),45,university,262634,management / self-employed / highly qualified employee / officer,2
+100001030,0,single,68,university,287106,management / self-employed / highly qualified employee / officer,2
+100001031,0,single,60,university,166298,management / self-employed / highly qualified employee / officer,1
+100001032,1,non-single (divorced / separated / married / widowed),30,graduate school,133328,unemployed / unskilled,2
+100001033,0,single,63,university,129798,skilled employee / official,1
+100001034,0,single,57,university,281084,management / self-employed / highly qualified employee / officer,1
+100001035,1,non-single (divorced / separated / married / widowed),46,university,160678,skilled employee / official,2
+100001036,1,non-single (divorced / separated / married / widowed),70,graduate school,167532,skilled employee / official,1
+100001037,0,single,65,university,178591,skilled employee / official,2
+100001038,0,single,63,university,273063,management / self-employed / highly qualified employee / officer,2
+100001039,0,non-single (divorced / separated / married / widowed),54,university,149410,skilled employee / official,2
+100001040,0,non-single (divorced / separated / married / widowed),49,university,124658,skilled employee / official,2
+100001041,1,non-single (divorced / separated / married / widowed),64,university,153645,skilled employee / official,2
+100001042,1,non-single (divorced / separated / married / widowed),61,university,308529,management / self-employed / highly qualified employee / officer,2
+100001043,1,non-single (divorced / separated / married / widowed),57,university,155062,skilled employee / official,2
+100001044,1,non-single (divorced / separated / married / widowed),42,university,199654,skilled employee / official,2
+100001045,0,single,62,university,124723,skilled employee / official,2
+100001046,1,non-single (divorced / separated / married / widowed),41,university,127752,skilled employee / official,2
+100001047,1,non-single (divorced / separated / married / widowed),51,university,157595,management / self-employed / highly qualified employee / officer,1
+100001048,1,non-single (divorced / separated / married / widowed),38,university,135534,skilled employee / official,2
+100001049,1,non-single (divorced / separated / married / widowed),56,university,166264,management / self-employed / highly qualified employee / officer,2
+100001050,1,non-single (divorced / separated / married / widowed),43,university,147259,skilled employee / official,1
+100001051,1,non-single (divorced / separated / married / widowed),48,university,161116,skilled employee / official,1
+100001052,0,single,61,university,139380,skilled employee / official,1
+100001053,0,non-single (divorced / separated / married / widowed),48,university,213768,management / self-employed / highly qualified employee / officer,2
+100001054,0,single,68,university,125903,skilled employee / official,2
+100001055,1,non-single (divorced / separated / married / widowed),62,university,163940,skilled employee / official,1
+100001056,1,non-single (divorced / separated / married / widowed),56,university,173378,management / self-employed / highly qualified employee / officer,2
+100001057,1,non-single (divorced / separated / married / widowed),53,university,126847,skilled employee / official,1
+100001058,0,non-single (divorced / separated / married / widowed),33,graduate school,166712,skilled employee / official,2
+100001059,1,non-single (divorced / separated / married / widowed),60,university,189166,skilled employee / official,1
+100001060,1,non-single (divorced / separated / married / widowed),47,university,161714,skilled employee / official,1
+100001061,0,non-single (divorced / separated / married / widowed),25,graduate school,214364,management / self-employed / highly qualified employee / officer,2
+100001062,0,single,64,university,184680,skilled employee / official,1
+100001063,0,single,73,university,214732,management / self-employed / highly qualified employee / officer,1
+100001064,0,non-single (divorced / separated / married / widowed),66,university,152527,skilled employee / official,1
+100001065,1,non-single (divorced / separated / married / widowed),76,graduate school,170366,management / self-employed / highly qualified employee / officer,1
+100001066,1,non-single (divorced / separated / married / widowed),60,university,194532,management / self-employed / highly qualified employee / officer,1
+100001067,1,non-single (divorced / separated / married / widowed),57,university,125883,skilled employee / official,2
+100001068,0,non-single (divorced / separated / married / widowed),30,graduate school,131242,skilled employee / official,2
+100001069,0,non-single (divorced / separated / married / widowed),43,university,159880,management / self-employed / highly qualified employee / officer,1
+100001070,0,single,57,university,165519,skilled employee / official,2
+100001071,0,non-single (divorced / separated / married / widowed),51,university,149653,skilled employee / official,1
+100001072,1,non-single (divorced / separated / married / widowed),61,university,134102,skilled employee / official,1
+100001073,0,single,64,university,159378,management / self-employed / highly qualified employee / officer,2
+100001074,0,non-single (divorced / separated / married / widowed),41,university,205476,management / self-employed / highly qualified employee / officer,1
+100001075,0,non-single (divorced / separated / married / widowed),43,university,280566,management / self-employed / highly qualified employee / officer,2
+100001076,0,non-single (divorced / separated / married / widowed),67,graduate school,71823,unemployed / unskilled,2
+100001077,1,non-single (divorced / separated / married / widowed),71,graduate school,211572,management / self-employed / highly qualified employee / officer,1
+100001078,0,single,59,university,136123,skilled employee / official,1
+100001079,0,non-single (divorced / separated / married / widowed),60,university,176372,skilled employee / official,1
+100001080,1,non-single (divorced / separated / married / widowed),60,university,128271,skilled employee / official,1
+100001081,1,non-single (divorced / separated / married / widowed),45,university,169020,management / self-employed / highly qualified employee / officer,2
+100001082,0,single,63,university,122267,skilled employee / official,2
+100001083,0,non-single (divorced / separated / married / widowed),38,graduate school,169324,management / self-employed / highly qualified employee / officer,2
+100001084,1,non-single (divorced / separated / married / widowed),46,university,192561,management / self-employed / highly qualified employee / officer,1
+100001085,0,non-single (divorced / separated / married / widowed),55,university,145781,skilled employee / official,2
+100001086,0,non-single (divorced / separated / married / widowed),50,university,135376,skilled employee / official,1
+100001087,1,non-single (divorced / separated / married / widowed),30,graduate school,169002,management / self-employed / highly qualified employee / officer,2
+100001088,0,single,63,university,128469,skilled employee / official,2
+100001089,0,single,67,university,135567,skilled employee / official,1
+100001090,1,non-single (divorced / separated / married / widowed),54,university,170644,management / self-employed / highly qualified employee / officer,2
+100001091,0,single,71,university,192360,management / self-employed / highly qualified employee / officer,1
+100001092,1,non-single (divorced / separated / married / widowed),32,graduate school,133235,skilled employee / official,2
+100001093,1,non-single (divorced / separated / married / widowed),45,university,260847,management / self-employed / highly qualified employee / officer,2
+100001094,0,single,65,university,285647,management / self-employed / highly qualified employee / officer,2
+100001095,0,single,62,university,164816,management / self-employed / highly qualified employee / officer,1
+100001096,1,non-single (divorced / separated / married / widowed),28,graduate school,130148,unemployed / unskilled,2
+100001097,0,single,65,university,129838,skilled employee / official,1
+100001098,0,single,57,university,281647,management / self-employed / highly qualified employee / officer,1
+100001099,1,non-single (divorced / separated / married / widowed),48,university,157305,skilled employee / official,2
+100001100,1,non-single (divorced / separated / married / widowed),71,graduate school,163654,skilled employee / official,1
+100001101,0,single,38,high school,82398,skilled employee / official,1
+100001102,0,non-single (divorced / separated / married / widowed),40,high school,107710,skilled employee / official,1
+100001103,0,single,49,high school,122346,skilled employee / official,1
+100001104,0,non-single (divorced / separated / married / widowed),32,high school,155540,management / self-employed / highly qualified employee / officer,1
+100001105,0,single,45,high school,127572,skilled employee / official,1
+100001106,0,single,40,high school,154031,management / self-employed / highly qualified employee / officer,1
+100001107,0,single,66,university,164931,management / self-employed / highly qualified employee / officer,2
+100001108,0,single,38,high school,123003,skilled employee / official,2
+100001109,0,non-single (divorced / separated / married / widowed),20,high school,89605,skilled employee / official,1
+100001110,0,single,48,high school,117721,skilled employee / official,1
+100001111,0,non-single (divorced / separated / married / widowed),46,university,168904,management / self-employed / highly qualified employee / officer,1
+100001112,0,single,32,high school,137576,management / self-employed / highly qualified employee / officer,2
+100001113,0,single,54,high school,111274,skilled employee / official,1
+100001114,0,non-single (divorced / separated / married / widowed),24,high school,94249,management / self-employed / highly qualified employee / officer,2
+100001115,0,non-single (divorced / separated / married / widowed),27,high school,180940,management / self-employed / highly qualified employee / officer,1
+100001116,0,single,57,high school,125032,skilled employee / official,2
+100001117,0,single,38,high school,138011,management / self-employed / highly qualified employee / officer,1
+100001118,0,single,40,high school,144850,skilled employee / official,1
+100001119,0,non-single (divorced / separated / married / widowed),20,high school,107270,skilled employee / official,2
+100001120,0,single,36,high school,113405,management / self-employed / highly qualified employee / officer,2
+100001121,0,single,47,high school,137338,skilled employee / official,2
+100001122,0,single,64,university,125119,unemployed / unskilled,2
+100001123,0,single,42,high school,159745,management / self-employed / highly qualified employee / officer,2
+100001124,0,single,44,high school,181262,management / self-employed / highly qualified employee / officer,2
+100001125,0,non-single (divorced / separated / married / widowed),30,high school,90500,management / self-employed / highly qualified employee / officer,2
+100001126,0,single,37,high school,102733,skilled employee / official,1
+100001127,0,single,42,high school,135493,skilled employee / official,2
+100001128,0,non-single (divorced / separated / married / widowed),62,university,169044,skilled employee / official,1
+100001129,0,single,49,high school,178549,skilled employee / official,2
+100001130,0,single,52,high school,159716,skilled employee / official,2
+100001131,0,non-single (divorced / separated / married / widowed),36,high school,170118,management / self-employed / highly qualified employee / officer,1
+100001132,0,single,49,high school,143886,unemployed / unskilled,1
+100001133,0,single,42,high school,130164,management / self-employed / highly qualified employee / officer,2
+100001134,0,single,38,high school,114476,skilled employee / official,1
+100001135,0,single,50,high school,126143,skilled employee / official,1
+100001136,0,non-single (divorced / separated / married / widowed),34,high school,129654,management / self-employed / highly qualified employee / officer,2
+100001137,0,single,43,high school,123202,skilled employee / official,2
+100001138,0,single,40,high school,160524,skilled employee / official,1
+100001139,0,single,56,university,126906,skilled employee / official,1
+100001140,0,single,41,high school,143994,management / self-employed / highly qualified employee / officer,2
+100001141,0,non-single (divorced / separated / married / widowed),30,high school,123517,management / self-employed / highly qualified employee / officer,2
+100001142,0,non-single (divorced / separated / married / widowed),28,high school,129055,skilled employee / official,2
+100001143,0,single,64,university,136312,unemployed / unskilled,2
+100001144,0,single,67,university,112486,skilled employee / official,2
+100001145,0,single,37,high school,152401,management / self-employed / highly qualified employee / officer,1
+100001146,0,single,31,high school,157453,management / self-employed / highly qualified employee / officer,1
+100001147,0,single,32,high school,142870,management / self-employed / highly qualified employee / officer,2
+100001148,0,non-single (divorced / separated / married / widowed),52,university,137231,skilled employee / official,2
+100001149,0,non-single (divorced / separated / married / widowed),31,high school,104406,skilled employee / official,1
+100001150,0,single,36,high school,145385,management / self-employed / highly qualified employee / officer,1
+100001151,0,non-single (divorced / separated / married / widowed),32,high school,146519,management / self-employed / highly qualified employee / officer,1
+100001152,0,single,51,high school,126227,skilled employee / official,2
+100001153,0,single,47,high school,112227,management / self-employed / highly qualified employee / officer,1
+100001154,0,non-single (divorced / separated / married / widowed),34,high school,110145,skilled employee / official,2
+100001155,0,non-single (divorced / separated / married / widowed),46,university,149419,skilled employee / official,1
+100001156,0,non-single (divorced / separated / married / widowed),42,high school,176646,skilled employee / official,1
+100001157,0,single,39,high school,91019,management / self-employed / highly qualified employee / officer,1
+100001158,0,single,50,high school,169579,skilled employee / official,2
+100001159,0,single,42,high school,142305,skilled employee / official,2
+100001160,0,non-single (divorced / separated / married / widowed),36,high school,130602,skilled employee / official,1
+100001161,0,non-single (divorced / separated / married / widowed),18,high school,98992,skilled employee / official,1
+100001162,0,single,35,high school,181926,management / self-employed / highly qualified employee / officer,2
+100001163,0,single,38,high school,152864,skilled employee / official,2
+100001164,0,single,39,high school,135837,management / self-employed / highly qualified employee / officer,2
+100001165,0,non-single (divorced / separated / married / widowed),24,high school,121757,unemployed / unskilled,2
+100001166,0,single,41,high school,182274,skilled employee / official,1
+100001167,0,single,36,high school,149040,management / self-employed / highly qualified employee / officer,2
+100001168,0,single,37,high school,154196,management / self-employed / highly qualified employee / officer,2
+100001169,0,non-single (divorced / separated / married / widowed),45,university,135332,skilled employee / official,1
+100001170,0,single,41,high school,134200,management / self-employed / highly qualified employee / officer,2
+100001171,0,single,36,high school,177171,management / self-employed / highly qualified employee / officer,2
+100001172,0,single,38,high school,115964,unemployed / unskilled,2
+100001173,0,single,38,high school,136871,unemployed / unskilled,1
+100001174,0,non-single (divorced / separated / married / widowed),53,university,159559,management / self-employed / highly qualified employee / officer,2
+100001175,0,single,35,high school,113878,skilled employee / official,2
+100001176,0,single,48,high school,171203,management / self-employed / highly qualified employee / officer,2
+100001177,0,single,36,high school,102180,skilled employee / official,2
+100001178,0,non-single (divorced / separated / married / widowed),22,high school,116844,management / self-employed / highly qualified employee / officer,1
+100001179,0,single,35,high school,139844,management / self-employed / highly qualified employee / officer,2
+100001180,0,single,42,high school,156431,unemployed / unskilled,1
+100001181,0,single,39,high school,116137,unemployed / unskilled,1
+100001182,0,single,31,high school,143081,skilled employee / official,1
+100001183,0,single,33,high school,155870,management / self-employed / highly qualified employee / officer,2
+100001184,0,non-single (divorced / separated / married / widowed),31,high school,106924,unemployed / unskilled,1
+100001185,0,single,42,high school,102133,skilled employee / official,1
+100001186,0,single,61,university,145227,unemployed / unskilled,1
+100001187,0,single,38,high school,159500,management / self-employed / highly qualified employee / officer,2
+100001188,0,single,33,high school,98498,unemployed / unskilled,1
+100001189,0,single,48,high school,159714,skilled employee / official,2
+100001190,0,single,31,high school,121852,unemployed / unskilled,1
+100001191,0,single,52,high school,141271,management / self-employed / highly qualified employee / officer,2
+100001192,0,non-single (divorced / separated / married / widowed),27,high school,123213,skilled employee / official,2
+100001193,0,single,40,high school,143723,management / self-employed / highly qualified employee / officer,1
+100001194,0,single,34,high school,112538,unemployed / unskilled,1
+100001195,0,non-single (divorced / separated / married / widowed),26,high school,97932,management / self-employed / highly qualified employee / officer,2
+100001196,0,single,30,high school,154003,unemployed / unskilled,1
+100001197,0,single,53,high school,177179,skilled employee / official,1
+100001198,0,single,45,high school,128052,skilled employee / official,2
+100001199,0,single,32,high school,114617,management / self-employed / highly qualified employee / officer,1
+100001200,0,single,35,high school,182822,management / self-employed / highly qualified employee / officer,2
+100001201,0,non-single (divorced / separated / married / widowed),26,high school,177215,skilled employee / official,2
+100001202,0,single,30,high school,110929,skilled employee / official,1
+100001203,0,single,37,high school,111821,skilled employee / official,1
+100001204,0,single,32,high school,97306,management / self-employed / highly qualified employee / officer,1
+100001205,0,non-single (divorced / separated / married / widowed),40,high school,157231,skilled employee / official,1
+100001206,0,single,44,high school,126906,unemployed / unskilled,2
+100001207,0,single,43,high school,133243,skilled employee / official,2
+100001208,0,single,51,high school,112250,skilled employee / official,1
+100001209,0,single,37,high school,104349,unemployed / unskilled,1
+100001210,0,single,33,high school,151421,skilled employee / official,2
+100001211,0,non-single (divorced / separated / married / widowed),32,high school,178081,management / self-employed / highly qualified employee / officer,1
+100001212,0,single,35,high school,110181,unemployed / unskilled,2
+100001213,0,non-single (divorced / separated / married / widowed),30,high school,113012,skilled employee / official,1
+100001214,0,non-single (divorced / separated / married / widowed),35,high school,154585,management / self-employed / highly qualified employee / officer,2
+100001215,0,single,40,high school,144704,management / self-employed / highly qualified employee / officer,1
+100001216,0,single,37,high school,141632,management / self-employed / highly qualified employee / officer,2
+100001217,0,single,37,high school,105055,skilled employee / official,2
+100001218,0,single,37,high school,124597,skilled employee / official,2
+100001219,0,single,53,high school,160164,management / self-employed / highly qualified employee / officer,1
+100001220,0,single,34,high school,151754,management / self-employed / highly qualified employee / officer,1
+100001221,0,single,51,high school,155551,skilled employee / official,1
+100001222,0,non-single (divorced / separated / married / widowed),26,high school,94986,skilled employee / official,2
+100001223,0,single,34,high school,175800,unemployed / unskilled,1
+100001224,0,single,51,high school,126246,management / self-employed / highly qualified employee / officer,1
+100001225,0,single,33,high school,116261,skilled employee / official,2
+100001226,0,non-single (divorced / separated / married / widowed),32,high school,117796,unemployed / unskilled,2
+100001227,0,single,39,high school,115363,skilled employee / official,1
+100001228,0,single,53,high school,169076,skilled employee / official,1
+100001229,0,single,34,high school,97474,management / self-employed / highly qualified employee / officer,2
+100001230,0,single,37,high school,140341,skilled employee / official,2
+100001231,0,non-single (divorced / separated / married / widowed),28,high school,114503,skilled employee / official,1
+100001232,0,non-single (divorced / separated / married / widowed),25,high school,102937,skilled employee / official,2
+100001233,0,single,36,high school,151781,management / self-employed / highly qualified employee / officer,2
+100001234,0,non-single (divorced / separated / married / widowed),36,high school,123133,skilled employee / official,2
+100001235,0,single,35,high school,118879,skilled employee / official,2
+100001236,0,non-single (divorced / separated / married / widowed),21,high school,158683,skilled employee / official,1
+100001237,0,non-single (divorced / separated / married / widowed),29,high school,107514,skilled employee / official,2
+100001238,0,single,60,university,193879,skilled employee / official,1
+100001239,0,single,45,high school,135043,skilled employee / official,1
+100001240,0,non-single (divorced / separated / married / widowed),56,university,108559,unemployed / unskilled,1
+100001241,0,non-single (divorced / separated / married / widowed),30,high school,121038,skilled employee / official,2
+100001242,0,single,52,high school,151947,management / self-employed / highly qualified employee / officer,2
+100001243,0,non-single (divorced / separated / married / widowed),26,high school,118820,skilled employee / official,1
+100001244,0,single,43,high school,121517,skilled employee / official,1
+100001245,0,single,34,high school,113572,skilled employee / official,1
+100001246,0,non-single (divorced / separated / married / widowed),22,high school,131170,skilled employee / official,2
+100001247,0,single,42,high school,92430,unemployed / unskilled,1
+100001248,0,single,38,high school,124554,unemployed / unskilled,1
+100001249,0,non-single (divorced / separated / married / widowed),29,high school,115988,skilled employee / official,2
+100001250,0,single,44,high school,107301,skilled employee / official,2
+100001251,0,non-single (divorced / separated / married / widowed),29,high school,103767,management / self-employed / highly qualified employee / officer,1
+100001252,0,single,44,high school,141493,skilled employee / official,2
+100001253,0,single,38,high school,154339,skilled employee / official,2
+100001254,0,non-single (divorced / separated / married / widowed),26,high school,112369,unemployed / unskilled,1
+100001255,0,single,53,high school,158193,skilled employee / official,1
+100001256,0,single,43,high school,143734,skilled employee / official,1
+100001257,0,single,33,high school,121890,skilled employee / official,1
+100001258,0,single,52,high school,127609,unemployed / unskilled,1
+100001259,0,non-single (divorced / separated / married / widowed),26,high school,94650,unemployed / unskilled,2
+100001260,0,single,38,high school,175504,management / self-employed / highly qualified employee / officer,1
+100001261,0,single,47,high school,165495,skilled employee / official,2
+100001262,0,non-single (divorced / separated / married / widowed),26,high school,120389,skilled employee / official,1
+100001263,0,non-single (divorced / separated / married / widowed),36,high school,165340,skilled employee / official,1
+100001264,0,single,36,high school,119804,skilled employee / official,1
+100001265,0,single,57,university,154344,management / self-employed / highly qualified employee / officer,1
+100001266,0,non-single (divorced / separated / married / widowed),31,high school,106266,management / self-employed / highly qualified employee / officer,2
+100001267,0,single,45,high school,136129,skilled employee / official,1
+100001268,0,single,40,high school,151914,management / self-employed / highly qualified employee / officer,1
+100001269,0,non-single (divorced / separated / married / widowed),21,high school,121473,skilled employee / official,1
+100001270,0,single,46,high school,127147,skilled employee / official,2
+100001271,0,single,35,high school,125387,skilled employee / official,2
+100001272,0,non-single (divorced / separated / married / widowed),31,high school,139490,unemployed / unskilled,2
+100001273,0,single,51,high school,124990,skilled employee / official,2
+100001274,0,non-single (divorced / separated / married / widowed),21,high school,101471,management / self-employed / highly qualified employee / officer,1
+100001275,0,single,48,high school,155708,skilled employee / official,1
+100001276,0,single,48,high school,142345,skilled employee / official,2
+100001277,0,single,68,university,148675,unemployed / unskilled,1
+100001278,0,non-single (divorced / separated / married / widowed),45,university,116484,skilled employee / official,2
+100001279,0,single,35,high school,150237,management / self-employed / highly qualified employee / officer,2
+100001280,0,non-single (divorced / separated / married / widowed),22,high school,100273,skilled employee / official,2
+100001281,0,single,44,high school,122292,unemployed / unskilled,1
+100001282,0,single,52,high school,159216,skilled employee / official,1
+100001283,0,single,48,high school,130082,skilled employee / official,2
+100001284,0,single,33,high school,139547,skilled employee / official,2
+100001285,0,non-single (divorced / separated / married / widowed),35,high school,122895,skilled employee / official,1
+100001286,0,non-single (divorced / separated / married / widowed),64,university,154549,skilled employee / official,1
+100001287,0,single,58,high school,149315,unemployed / unskilled,2
+100001288,0,non-single (divorced / separated / married / widowed),24,high school,118101,unemployed / unskilled,2
+100001289,0,single,40,high school,115831,unemployed / unskilled,2
+100001290,0,single,49,high school,118571,management / self-employed / highly qualified employee / officer,2
+100001291,0,single,31,high school,138906,skilled employee / official,2
+100001292,0,single,46,high school,98520,skilled employee / official,2
+100001293,0,single,46,high school,106576,skilled employee / official,1
+100001294,0,single,49,high school,121592,skilled employee / official,1
+100001295,0,single,29,high school,135605,unemployed / unskilled,1
+100001296,0,single,37,high school,114552,skilled employee / official,2
+100001297,0,single,33,high school,151339,management / self-employed / highly qualified employee / officer,1
+100001298,0,single,71,university,170387,skilled employee / official,2
+100001299,0,single,35,high school,118288,skilled employee / official,2
+100001300,0,single,40,high school,109992,skilled employee / official,2
+100001301,1,single,27,high school,90654,unemployed / unskilled,0
+100001302,1,single,61,university,113290,unemployed / unskilled,0
+100001303,1,non-single (divorced / separated / married / widowed),29,high school,100093,skilled employee / official,1
+100001304,1,single,33,high school,109489,skilled employee / official,0
+100001305,1,single,56,university,139427,unemployed / unskilled,0
+100001306,1,non-single (divorced / separated / married / widowed),27,high school,123411,skilled employee / official,1
+100001307,1,non-single (divorced / separated / married / widowed),22,high school,137925,skilled employee / official,0
+100001308,1,non-single (divorced / separated / married / widowed),19,high school,99119,skilled employee / official,0
+100001309,1,non-single (divorced / separated / married / widowed),28,high school,91084,skilled employee / official,1
+100001310,1,non-single (divorced / separated / married / widowed),24,high school,110137,skilled employee / official,1
+100001311,1,non-single (divorced / separated / married / widowed),27,high school,67041,unemployed / unskilled,0
+100001312,1,non-single (divorced / separated / married / widowed),30,high school,127299,skilled employee / official,1
+100001313,1,single,26,high school,84555,unemployed / unskilled,0
+100001314,1,non-single (divorced / separated / married / widowed),26,high school,123895,skilled employee / official,0
+100001315,1,non-single (divorced / separated / married / widowed),23,high school,94324,skilled employee / official,1
+100001316,1,non-single (divorced / separated / married / widowed),28,high school,96062,skilled employee / official,0
+100001317,1,non-single (divorced / separated / married / widowed),67,graduate school,144843,skilled employee / official,0
+100001318,1,non-single (divorced / separated / married / widowed),27,high school,107485,skilled employee / official,1
+100001319,1,non-single (divorced / separated / married / widowed),32,high school,98573,skilled employee / official,0
+100001320,1,single,24,high school,107462,unemployed / unskilled,0
+100001321,1,non-single (divorced / separated / married / widowed),28,high school,115809,skilled employee / official,1
+100001322,1,single,48,university,118749,unemployed / unskilled,0
+100001323,1,non-single (divorced / separated / married / widowed),32,high school,139112,skilled employee / official,1
+100001324,1,non-single (divorced / separated / married / widowed),25,high school,94075,skilled employee / official,0
+100001325,1,non-single (divorced / separated / married / widowed),57,university,62002,unemployed / unskilled,0
+100001326,1,non-single (divorced / separated / married / widowed),28,high school,127262,skilled employee / official,0
+100001327,1,non-single (divorced / separated / married / widowed),24,high school,122846,skilled employee / official,1
+100001328,1,non-single (divorced / separated / married / widowed),25,high school,61907,unemployed / unskilled,0
+100001329,1,single,31,high school,89287,unemployed / unskilled,0
+100001330,1,single,33,high school,103696,skilled employee / official,1
+100001331,1,non-single (divorced / separated / married / widowed),50,university,147603,skilled employee / official,0
+100001332,1,non-single (divorced / separated / married / widowed),58,university,139229,unemployed / unskilled,1
+100001333,1,non-single (divorced / separated / married / widowed),27,high school,107932,unemployed / unskilled,0
+100001334,1,non-single (divorced / separated / married / widowed),48,university,116235,unemployed / unskilled,0
+100001335,1,non-single (divorced / separated / married / widowed),22,high school,85974,unemployed / unskilled,0
+100001336,1,non-single (divorced / separated / married / widowed),40,high school,124001,unemployed / unskilled,0
+100001337,1,non-single (divorced / separated / married / widowed),32,high school,121428,skilled employee / official,0
+100001338,1,single,25,high school,93233,unemployed / unskilled,0
+100001339,1,non-single (divorced / separated / married / widowed),27,high school,67965,unemployed / unskilled,0
+100001340,1,non-single (divorced / separated / married / widowed),27,high school,88001,unemployed / unskilled,0
+100001341,1,non-single (divorced / separated / married / widowed),23,high school,129112,skilled employee / official,0
+100001342,1,non-single (divorced / separated / married / widowed),32,high school,109324,skilled employee / official,1
+100001343,1,non-single (divorced / separated / married / widowed),25,high school,112785,skilled employee / official,1
+100001344,1,non-single (divorced / separated / married / widowed),46,university,136735,unemployed / unskilled,0
+100001345,1,non-single (divorced / separated / married / widowed),21,high school,107779,skilled employee / official,1
+100001346,1,non-single (divorced / separated / married / widowed),29,high school,103526,skilled employee / official,0
+100001347,1,non-single (divorced / separated / married / widowed),31,high school,93171,unemployed / unskilled,0
+100001348,1,single,26,high school,106559,unemployed / unskilled,0
+100001349,1,non-single (divorced / separated / married / widowed),23,high school,112728,skilled employee / official,1
+100001350,1,single,38,high school,102855,skilled employee / official,1
+100001351,1,single,35,high school,85381,unemployed / unskilled,0
+100001352,1,non-single (divorced / separated / married / widowed),27,high school,100762,skilled employee / official,1
+100001353,1,non-single (divorced / separated / married / widowed),22,high school,131445,skilled employee / official,1
+100001354,1,non-single (divorced / separated / married / widowed),52,university,123194,skilled employee / official,0
+100001355,1,non-single (divorced / separated / married / widowed),19,high school,99519,skilled employee / official,1
+100001356,1,non-single (divorced / separated / married / widowed),23,high school,112853,skilled employee / official,0
+100001357,1,single,42,high school,110509,skilled employee / official,0
+100001358,1,non-single (divorced / separated / married / widowed),27,high school,106446,skilled employee / official,1
+100001359,1,non-single (divorced / separated / married / widowed),39,university,89665,unemployed / unskilled,0
+100001360,1,non-single (divorced / separated / married / widowed),50,university,128233,skilled employee / official,1
+100001361,1,non-single (divorced / separated / married / widowed),36,high school,133615,skilled employee / official,0
+100001362,1,non-single (divorced / separated / married / widowed),25,high school,115833,skilled employee / official,1
+100001363,1,non-single (divorced / separated / married / widowed),27,high school,65560,unemployed / unskilled,0
+100001364,1,non-single (divorced / separated / married / widowed),30,high school,118642,skilled employee / official,0
+100001365,1,single,22,high school,63635,unemployed / unskilled,0
+100001366,1,non-single (divorced / separated / married / widowed),27,high school,122649,skilled employee / official,1
+100001367,1,single,31,high school,143321,management / self-employed / highly qualified employee / officer,1
+100001368,1,non-single (divorced / separated / married / widowed),29,high school,99556,skilled employee / official,0
+100001369,1,single,34,high school,36760,unemployed / unskilled,0
+100001370,1,single,33,high school,71935,unemployed / unskilled,0
+100001371,1,non-single (divorced / separated / married / widowed),26,high school,114977,skilled employee / official,0
+100001372,1,non-single (divorced / separated / married / widowed),36,high school,147691,skilled employee / official,1
+100001373,1,non-single (divorced / separated / married / widowed),26,high school,54296,unemployed / unskilled,0
+100001374,1,non-single (divorced / separated / married / widowed),39,high school,80014,unemployed / unskilled,0
+100001375,1,non-single (divorced / separated / married / widowed),44,university,77887,unemployed / unskilled,0
+100001376,1,non-single (divorced / separated / married / widowed),46,university,98517,unemployed / unskilled,0
+100001377,1,non-single (divorced / separated / married / widowed),31,high school,103012,unemployed / unskilled,0
+100001378,1,single,26,high school,121377,skilled employee / official,0
+100001379,1,non-single (divorced / separated / married / widowed),22,high school,91359,skilled employee / official,1
+100001380,1,single,48,university,104833,unemployed / unskilled,0
+100001381,1,non-single (divorced / separated / married / widowed),27,high school,101209,skilled employee / official,0
+100001382,1,single,30,high school,58207,unemployed / unskilled,0
+100001383,1,non-single (divorced / separated / married / widowed),27,high school,116708,skilled employee / official,1
+100001384,1,non-single (divorced / separated / married / widowed),36,high school,107471,skilled employee / official,1
+100001385,1,non-single (divorced / separated / married / widowed),31,high school,128495,skilled employee / official,0
+100001386,1,single,21,high school,124468,skilled employee / official,0
+100001387,1,non-single (divorced / separated / married / widowed),26,high school,106922,skilled employee / official,1
+100001388,1,single,24,high school,104291,skilled employee / official,0
+100001389,1,non-single (divorced / separated / married / widowed),29,high school,98204,skilled employee / official,0
+100001390,1,non-single (divorced / separated / married / widowed),32,high school,127071,skilled employee / official,0
+100001391,1,non-single (divorced / separated / married / widowed),45,university,85115,unemployed / unskilled,0
+100001392,1,non-single (divorced / separated / married / widowed),58,university,104013,unemployed / unskilled,0
+100001393,1,non-single (divorced / separated / married / widowed),25,high school,89863,skilled employee / official,0
+100001394,1,non-single (divorced / separated / married / widowed),67,graduate school,135300,skilled employee / official,0
+100001395,1,non-single (divorced / separated / married / widowed),53,university,107861,unemployed / unskilled,0
+100001396,1,non-single (divorced / separated / married / widowed),24,high school,123994,skilled employee / official,0
+100001397,1,single,20,high school,91270,unemployed / unskilled,0
+100001398,1,non-single (divorced / separated / married / widowed),71,graduate school,133245,unemployed / unskilled,0
+100001399,1,non-single (divorced / separated / married / widowed),31,high school,118594,skilled employee / official,1
+100001400,1,non-single (divorced / separated / married / widowed),27,high school,40606,unemployed / unskilled,0
+100001401,1,non-single (divorced / separated / married / widowed),36,high school,129304,unemployed / unskilled,0
+100001402,1,non-single (divorced / separated / married / widowed),25,high school,113118,skilled employee / official,0
+100001403,1,single,41,high school,133131,skilled employee / official,0
+100001404,1,non-single (divorced / separated / married / widowed),30,high school,106876,skilled employee / official,1
+100001405,1,non-single (divorced / separated / married / widowed),32,high school,130870,skilled employee / official,1
+100001406,1,non-single (divorced / separated / married / widowed),29,high school,125621,unemployed / unskilled,0
+100001407,1,single,27,high school,78923,unemployed / unskilled,0
+100001408,1,non-single (divorced / separated / married / widowed),32,high school,123983,skilled employee / official,0
+100001409,1,non-single (divorced / separated / married / widowed),25,high school,75184,unemployed / unskilled,0
+100001410,1,single,24,high school,109693,skilled employee / official,0
+100001411,1,non-single (divorced / separated / married / widowed),63,university,86273,unemployed / unskilled,0
+100001412,1,single,42,university,113190,unemployed / unskilled,0
+100001413,1,non-single (divorced / separated / married / widowed),22,high school,109274,unemployed / unskilled,0
+100001414,1,non-single (divorced / separated / married / widowed),46,university,143489,skilled employee / official,1
+100001415,1,non-single (divorced / separated / married / widowed),24,high school,99570,skilled employee / official,1
+100001416,1,single,30,high school,139468,skilled employee / official,1
+100001417,1,non-single (divorced / separated / married / widowed),44,university,108627,unemployed / unskilled,0
+100001418,1,single,25,high school,106355,skilled employee / official,0
+100001419,1,non-single (divorced / separated / married / widowed),27,high school,96952,skilled employee / official,0
+100001420,1,non-single (divorced / separated / married / widowed),27,high school,141502,skilled employee / official,1
+100001421,1,non-single (divorced / separated / married / widowed),34,high school,110420,skilled employee / official,1
+100001422,1,non-single (divorced / separated / married / widowed),18,high school,97741,skilled employee / official,1
+100001423,1,non-single (divorced / separated / married / widowed),25,high school,99583,skilled employee / official,1
+100001424,1,non-single (divorced / separated / married / widowed),21,high school,63698,unemployed / unskilled,0
+100001425,1,non-single (divorced / separated / married / widowed),26,high school,116688,skilled employee / official,1
+100001426,1,non-single (divorced / separated / married / widowed),27,high school,131542,management / self-employed / highly qualified employee / officer,1
+100001427,1,single,25,high school,136055,skilled employee / official,1
+100001428,1,non-single (divorced / separated / married / widowed),30,high school,100195,skilled employee / official,1
+100001429,1,single,66,graduate school,131001,skilled employee / official,0
+100001430,1,non-single (divorced / separated / married / widowed),25,high school,104062,skilled employee / official,1
+100001431,1,non-single (divorced / separated / married / widowed),43,university,137689,skilled employee / official,0
+100001432,1,non-single (divorced / separated / married / widowed),35,high school,137705,skilled employee / official,1
+100001433,1,single,70,graduate school,69915,unemployed / unskilled,0
+100001434,1,single,35,high school,68731,unemployed / unskilled,0
+100001435,1,non-single (divorced / separated / married / widowed),26,high school,105726,skilled employee / official,0
+100001436,1,single,29,high school,78078,unemployed / unskilled,0
+100001437,1,non-single (divorced / separated / married / widowed),22,high school,110835,unemployed / unskilled,0
+100001438,1,single,26,high school,115531,skilled employee / official,1
+100001439,1,non-single (divorced / separated / married / widowed),36,high school,92723,unemployed / unskilled,0
+100001440,1,non-single (divorced / separated / married / widowed),35,high school,107509,skilled employee / official,1
+100001441,1,non-single (divorced / separated / married / widowed),28,high school,116763,skilled employee / official,1
+100001442,1,non-single (divorced / separated / married / widowed),24,high school,100733,skilled employee / official,0
+100001443,1,non-single (divorced / separated / married / widowed),34,high school,92652,unemployed / unskilled,0
+100001444,1,non-single (divorced / separated / married / widowed),25,high school,106987,skilled employee / official,0
+100001445,1,non-single (divorced / separated / married / widowed),54,university,51882,unemployed / unskilled,0
+100001446,1,single,46,university,104751,unemployed / unskilled,0
+100001447,1,non-single (divorced / separated / married / widowed),42,high school,50947,unemployed / unskilled,0
+100001448,1,single,45,university,126986,unemployed / unskilled,0
+100001449,1,single,48,university,110223,unemployed / unskilled,0
+100001450,1,single,21,high school,100591,unemployed / unskilled,0
+100001451,1,non-single (divorced / separated / married / widowed),31,high school,123257,skilled employee / official,0
+100001452,1,single,35,high school,137736,skilled employee / official,1
+100001453,1,non-single (divorced / separated / married / widowed),36,high school,110221,skilled employee / official,1
+100001454,1,non-single (divorced / separated / married / widowed),32,high school,99703,unemployed / unskilled,0
+100001455,1,non-single (divorced / separated / married / widowed),26,high school,106667,unemployed / unskilled,0
+100001456,1,non-single (divorced / separated / married / widowed),34,high school,143319,skilled employee / official,0
+100001457,1,non-single (divorced / separated / married / widowed),65,university,135557,skilled employee / official,1
+100001458,1,non-single (divorced / separated / married / widowed),50,university,93390,unemployed / unskilled,0
+100001459,1,non-single (divorced / separated / married / widowed),39,high school,97577,skilled employee / official,0
+100001460,1,single,52,university,124196,unemployed / unskilled,0
+100001461,1,non-single (divorced / separated / married / widowed),36,high school,81136,unemployed / unskilled,0
+100001462,1,non-single (divorced / separated / married / widowed),29,high school,119439,skilled employee / official,0
+100001463,1,non-single (divorced / separated / married / widowed),36,high school,145231,skilled employee / official,1
+100001464,1,non-single (divorced / separated / married / widowed),36,high school,85623,unemployed / unskilled,0
+100001465,1,non-single (divorced / separated / married / widowed),27,high school,145373,skilled employee / official,1
+100001466,1,non-single (divorced / separated / married / widowed),36,high school,135896,management / self-employed / highly qualified employee / officer,1
+100001467,1,non-single (divorced / separated / married / widowed),26,high school,106470,skilled employee / official,1
+100001468,1,single,57,university,113334,skilled employee / official,1
+100001469,1,single,27,high school,100560,unemployed / unskilled,0
+100001470,1,non-single (divorced / separated / married / widowed),58,university,108442,unemployed / unskilled,0
+100001471,1,non-single (divorced / separated / married / widowed),27,high school,64472,unemployed / unskilled,0
+100001472,1,non-single (divorced / separated / married / widowed),49,university,120207,skilled employee / official,0
+100001473,1,non-single (divorced / separated / married / widowed),43,university,101680,skilled employee / official,0
+100001474,1,single,45,university,92342,unemployed / unskilled,0
+100001475,1,non-single (divorced / separated / married / widowed),27,high school,98611,unemployed / unskilled,0
+100001476,1,non-single (divorced / separated / married / widowed),34,high school,97613,skilled employee / official,1
+100001477,1,non-single (divorced / separated / married / widowed),21,high school,82298,unemployed / unskilled,0
+100001478,1,non-single (divorced / separated / married / widowed),54,university,125302,skilled employee / official,1
+100001479,1,non-single (divorced / separated / married / widowed),43,university,108725,unemployed / unskilled,0
+100001480,1,single,25,high school,85569,unemployed / unskilled,0
+100001481,1,single,57,university,110372,unemployed / unskilled,0
+100001482,1,non-single (divorced / separated / married / widowed),26,high school,100511,skilled employee / official,1
+100001483,1,single,30,high school,110455,skilled employee / official,0
+100001484,1,single,58,university,141993,unemployed / unskilled,0
+100001485,1,non-single (divorced / separated / married / widowed),25,high school,121789,skilled employee / official,1
+100001486,1,non-single (divorced / separated / married / widowed),23,high school,138967,skilled employee / official,0
+100001487,1,single,22,high school,105230,skilled employee / official,0
+100001488,1,non-single (divorced / separated / married / widowed),21,high school,90656,skilled employee / official,1
+100001489,1,non-single (divorced / separated / married / widowed),20,high school,115445,skilled employee / official,1
+100001490,1,non-single (divorced / separated / married / widowed),22,high school,59955,unemployed / unskilled,0
+100001491,1,single,27,high school,126268,skilled employee / official,1
+100001492,1,single,24,high school,80830,unemployed / unskilled,0
+100001493,1,non-single (divorced / separated / married / widowed),23,high school,123625,skilled employee / official,0
+100001494,1,non-single (divorced / separated / married / widowed),26,high school,102543,skilled employee / official,1
+100001495,1,single,28,high school,101948,skilled employee / official,0
+100001496,1,non-single (divorced / separated / married / widowed),64,graduate school,142280,skilled employee / official,0
+100001497,1,non-single (divorced / separated / married / widowed),26,high school,105434,skilled employee / official,1
+100001498,1,non-single (divorced / separated / married / widowed),31,high school,106115,skilled employee / official,0
+100001499,1,single,28,high school,111057,unemployed / unskilled,0
+100001500,1,non-single (divorced / separated / married / widowed),25,high school,117758,skilled employee / official,1
+100001501,1,single,49,university,118396,unemployed / unskilled,0
+100001502,1,non-single (divorced / separated / married / widowed),33,high school,136260,skilled employee / official,1
+100001503,1,single,27,high school,97192,skilled employee / official,0
+100001504,1,non-single (divorced / separated / married / widowed),59,university,62101,unemployed / unskilled,0
+100001505,1,non-single (divorced / separated / married / widowed),28,high school,123497,skilled employee / official,0
+100001506,1,non-single (divorced / separated / married / widowed),24,high school,120326,skilled employee / official,1
+100001507,1,non-single (divorced / separated / married / widowed),26,high school,66645,unemployed / unskilled,0
+100001508,1,single,33,high school,83429,unemployed / unskilled,0
+100001509,1,single,37,high school,107539,skilled employee / official,1
+100001510,1,non-single (divorced / separated / married / widowed),46,university,153880,skilled employee / official,0
+100001511,1,non-single (divorced / separated / married / widowed),62,university,140178,unemployed / unskilled,1
+100001512,1,single,26,high school,100402,unemployed / unskilled,0
+100001513,1,non-single (divorced / separated / married / widowed),49,university,122158,unemployed / unskilled,0
+100001514,1,non-single (divorced / separated / married / widowed),25,high school,89331,unemployed / unskilled,0
+100001515,1,non-single (divorced / separated / married / widowed),37,high school,125359,unemployed / unskilled,0
+100001516,1,single,31,high school,124110,skilled employee / official,0
+100001517,1,single,25,high school,93526,unemployed / unskilled,0
+100001518,1,non-single (divorced / separated / married / widowed),21,high school,70170,unemployed / unskilled,0
+100001519,1,non-single (divorced / separated / married / widowed),27,high school,82357,unemployed / unskilled,0
+100001520,1,non-single (divorced / separated / married / widowed),29,high school,126745,skilled employee / official,0
+100001521,1,non-single (divorced / separated / married / widowed),30,high school,103326,skilled employee / official,1
+100001522,1,non-single (divorced / separated / married / widowed),26,high school,116048,skilled employee / official,1
+100001523,1,non-single (divorced / separated / married / widowed),40,university,137115,unemployed / unskilled,0
+100001524,1,non-single (divorced / separated / married / widowed),23,high school,105365,skilled employee / official,1
+100001525,1,non-single (divorced / separated / married / widowed),31,high school,95911,skilled employee / official,0
+100001526,1,non-single (divorced / separated / married / widowed),29,high school,88669,unemployed / unskilled,0
+100001527,1,single,22,high school,103776,unemployed / unskilled,0
+100001528,1,non-single (divorced / separated / married / widowed),26,high school,108864,skilled employee / official,1
+100001529,1,single,39,high school,106037,skilled employee / official,1
+100001530,1,single,35,high school,84851,unemployed / unskilled,0
+100001531,1,non-single (divorced / separated / married / widowed),26,high school,95748,skilled employee / official,1
+100001532,1,non-single (divorced / separated / married / widowed),28,high school,133616,skilled employee / official,1
+100001533,1,non-single (divorced / separated / married / widowed),56,university,132752,skilled employee / official,0
+100001534,1,non-single (divorced / separated / married / widowed),22,high school,95712,skilled employee / official,1
+100001535,1,non-single (divorced / separated / married / widowed),26,high school,109063,skilled employee / official,0
+100001536,1,single,41,high school,113521,skilled employee / official,0
+100001537,1,non-single (divorced / separated / married / widowed),29,high school,109380,skilled employee / official,1
+100001538,1,non-single (divorced / separated / married / widowed),42,university,82558,unemployed / unskilled,0
+100001539,1,non-single (divorced / separated / married / widowed),50,university,124777,skilled employee / official,1
+100001540,1,non-single (divorced / separated / married / widowed),33,high school,133542,skilled employee / official,0
+100001541,1,non-single (divorced / separated / married / widowed),28,high school,116492,skilled employee / official,1
+100001542,1,non-single (divorced / separated / married / widowed),27,high school,68834,unemployed / unskilled,0
+100001543,1,non-single (divorced / separated / married / widowed),27,high school,124023,skilled employee / official,0
+100001544,1,single,28,high school,63882,unemployed / unskilled,0
+100001545,1,non-single (divorced / separated / married / widowed),24,high school,122492,skilled employee / official,1
+100001546,1,single,28,high school,141453,management / self-employed / highly qualified employee / officer,1
+100001547,1,non-single (divorced / separated / married / widowed),32,high school,99327,skilled employee / official,0
+100001548,1,single,32,high school,45590,unemployed / unskilled,0
+100001549,1,single,30,high school,71167,unemployed / unskilled,0
+100001550,1,non-single (divorced / separated / married / widowed),29,high school,111992,skilled employee / official,0
+100001551,1,non-single (divorced / separated / married / widowed),37,high school,145140,skilled employee / official,1
+100001552,1,non-single (divorced / separated / married / widowed),24,high school,49672,unemployed / unskilled,0
+100001553,1,non-single (divorced / separated / married / widowed),36,high school,75536,unemployed / unskilled,0
+100001554,1,non-single (divorced / separated / married / widowed),40,university,86720,unemployed / unskilled,0
+100001555,1,non-single (divorced / separated / married / widowed),51,university,97729,unemployed / unskilled,0
+100001556,1,non-single (divorced / separated / married / widowed),33,high school,106808,unemployed / unskilled,0
+100001557,1,single,31,high school,117971,skilled employee / official,0
+100001558,1,non-single (divorced / separated / married / widowed),29,high school,97731,skilled employee / official,1
+100001559,1,single,48,university,109196,unemployed / unskilled,0
+100001560,1,non-single (divorced / separated / married / widowed),25,high school,94905,skilled employee / official,0
+100001561,1,single,28,high school,57480,unemployed / unskilled,0
+100001562,1,non-single (divorced / separated / married / widowed),23,high school,109175,skilled employee / official,1
+100001563,1,non-single (divorced / separated / married / widowed),32,high school,111174,skilled employee / official,1
+100001564,1,non-single (divorced / separated / married / widowed),34,high school,127255,skilled employee / official,0
+100001565,1,single,23,high school,115499,skilled employee / official,0
+100001566,1,non-single (divorced / separated / married / widowed),25,high school,109499,skilled employee / official,1
+100001567,1,single,25,high school,104696,skilled employee / official,0
+100001568,1,non-single (divorced / separated / married / widowed),27,high school,104467,skilled employee / official,0
+100001569,1,non-single (divorced / separated / married / widowed),29,high school,120157,skilled employee / official,0
+100001570,1,non-single (divorced / separated / married / widowed),46,university,81200,unemployed / unskilled,0
+100001571,1,non-single (divorced / separated / married / widowed),61,university,97558,unemployed / unskilled,0
+100001572,1,non-single (divorced / separated / married / widowed),25,high school,95914,skilled employee / official,0
+100001573,1,non-single (divorced / separated / married / widowed),67,graduate school,128053,skilled employee / official,0
+100001574,1,non-single (divorced / separated / married / widowed),49,university,101734,unemployed / unskilled,0
+100001575,1,non-single (divorced / separated / married / widowed),21,high school,126009,skilled employee / official,0
+100001576,1,single,19,high school,91232,unemployed / unskilled,0
+100001577,1,non-single (divorced / separated / married / widowed),67,graduate school,128343,unemployed / unskilled,0
+100001578,1,non-single (divorced / separated / married / widowed),31,high school,110040,skilled employee / official,1
+100001579,1,non-single (divorced / separated / married / widowed),27,high school,38247,unemployed / unskilled,0
+100001580,1,non-single (divorced / separated / married / widowed),37,high school,129027,unemployed / unskilled,0
+100001581,1,non-single (divorced / separated / married / widowed),27,high school,115026,skilled employee / official,0
+100001582,1,single,36,high school,130323,skilled employee / official,0
+100001583,1,non-single (divorced / separated / married / widowed),24,high school,103181,skilled employee / official,1
+100001584,1,non-single (divorced / separated / married / widowed),31,high school,138307,skilled employee / official,1
+100001585,1,non-single (divorced / separated / married / widowed),29,high school,122564,unemployed / unskilled,0
+100001586,1,single,28,high school,82351,unemployed / unskilled,0
+100001587,1,non-single (divorced / separated / married / widowed),34,high school,125351,skilled employee / official,0
+100001588,1,non-single (divorced / separated / married / widowed),26,high school,82940,unemployed / unskilled,0
+100001589,1,single,21,high school,108029,skilled employee / official,0
+100001590,1,non-single (divorced / separated / married / widowed),63,university,82734,unemployed / unskilled,0
+100001591,1,single,38,university,116816,unemployed / unskilled,0
+100001592,1,non-single (divorced / separated / married / widowed),20,high school,113472,unemployed / unskilled,0
+100001593,1,non-single (divorced / separated / married / widowed),44,university,143343,skilled employee / official,1
+100001594,1,non-single (divorced / separated / married / widowed),31,high school,104074,skilled employee / official,1
+100001595,1,single,33,high school,138525,skilled employee / official,1
+100001596,1,non-single (divorced / separated / married / widowed),49,university,106960,unemployed / unskilled,0
+100001597,1,single,26,high school,108323,skilled employee / official,0
+100001598,1,non-single (divorced / separated / married / widowed),28,high school,95784,skilled employee / official,0
+100001599,1,non-single (divorced / separated / married / widowed),30,high school,140673,skilled employee / official,1
+100001600,1,non-single (divorced / separated / married / widowed),36,high school,104235,skilled employee / official,1
+100001601,1,non-single (divorced / separated / married / widowed),27,high school,54041,unemployed / unskilled,0
+100001602,0,single,23,other / unknown,107961,unemployed / unskilled,0
+100001603,0,single,31,other / unknown,113757,skilled employee / official,0
+100001604,1,non-single (divorced / separated / married / widowed),27,high school,94884,skilled employee / official,0
+100001605,1,non-single (divorced / separated / married / widowed),25,high school,126041,skilled employee / official,0
+100001606,1,non-single (divorced / separated / married / widowed),23,high school,64952,unemployed / unskilled,0
+100001607,0,non-single (divorced / separated / married / widowed),27,high school,66764,unemployed / unskilled,0
+100001608,1,single,38,high school,67861,unemployed / unskilled,0
+100001609,0,single,44,high school,113516,unemployed / unskilled,0
+100001610,1,non-single (divorced / separated / married / widowed),42,high school,46109,unemployed / unskilled,0
+100001611,1,non-single (divorced / separated / married / widowed),25,high school,103651,unemployed / unskilled,0
+100001612,0,non-single (divorced / separated / married / widowed),40,high school,75043,unemployed / unskilled,0
+100001613,1,non-single (divorced / separated / married / widowed),24,high school,116473,unemployed / unskilled,0
+100001614,1,single,39,high school,96614,unemployed / unskilled,0
+100001615,0,single,24,other / unknown,66447,unemployed / unskilled,0
+100001616,1,single,50,high school,119068,skilled employee / official,0
+100001617,1,non-single (divorced / separated / married / widowed),28,high school,122973,unemployed / unskilled,0
+100001618,1,non-single (divorced / separated / married / widowed),36,high school,81609,unemployed / unskilled,0
+100001619,0,single,36,high school,105519,skilled employee / official,0
+100001620,1,non-single (divorced / separated / married / widowed),40,high school,86649,unemployed / unskilled,0
+100001621,1,single,31,other / unknown,76384,unemployed / unskilled,0
+100001622,0,non-single (divorced / separated / married / widowed),27,high school,67136,unemployed / unskilled,0
+100001623,1,non-single (divorced / separated / married / widowed),35,high school,93155,unemployed / unskilled,0
+100001624,0,single,51,high school,124183,unemployed / unskilled,0
+100001625,1,single,26,other / unknown,64860,unemployed / unskilled,0
+100001626,0,single,33,high school,87232,unemployed / unskilled,0
+100001627,1,non-single (divorced / separated / married / widowed),27,high school,92304,unemployed / unskilled,0
+100001628,0,single,38,high school,84254,unemployed / unskilled,0
+100001629,1,single,30,other / unknown,106696,skilled employee / official,0
+100001630,0,single,28,other / unknown,113212,skilled employee / official,0
+100001631,0,single,23,other / unknown,71076,unemployed / unskilled,0
+100001632,1,non-single (divorced / separated / married / widowed),23,high school,114270,unemployed / unskilled,0
+100001633,1,non-single (divorced / separated / married / widowed),26,high school,125538,skilled employee / official,0
+100001634,1,non-single (divorced / separated / married / widowed),21,high school,92442,unemployed / unskilled,0
+100001635,1,single,36,high school,75297,unemployed / unskilled,0
+100001636,1,non-single (divorced / separated / married / widowed),24,high school,65707,unemployed / unskilled,0
+100001637,0,single,41,high school,120387,skilled employee / official,0
+100001638,0,single,42,high school,120946,skilled employee / official,0
+100001639,0,single,27,other / unknown,73265,unemployed / unskilled,0
+100001640,0,non-single (divorced / separated / married / widowed),40,high school,77481,unemployed / unskilled,0
+100001641,1,non-single (divorced / separated / married / widowed),34,high school,91282,unemployed / unskilled,0
+100001642,0,single,40,high school,104405,unemployed / unskilled,0
+100001643,0,single,33,high school,99646,skilled employee / official,0
+100001644,1,single,49,high school,97791,unemployed / unskilled,0
+100001645,0,single,28,other / unknown,81878,unemployed / unskilled,0
+100001646,1,non-single (divorced / separated / married / widowed),26,high school,107908,skilled employee / official,0
+100001647,1,single,40,high school,98608,unemployed / unskilled,0
+100001648,0,single,47,high school,95228,unemployed / unskilled,0
+100001649,1,non-single (divorced / separated / married / widowed),41,high school,128163,skilled employee / official,0
+100001650,1,non-single (divorced / separated / married / widowed),29,high school,94325,unemployed / unskilled,0
+100001651,1,non-single (divorced / separated / married / widowed),37,high school,90815,unemployed / unskilled,0
+100001652,0,single,31,other / unknown,120719,skilled employee / official,0
+100001653,0,single,35,high school,110159,skilled employee / official,0
+100001654,0,single,35,high school,124490,skilled employee / official,0
+100001655,1,non-single (divorced / separated / married / widowed),29,high school,75161,unemployed / unskilled,0
+100001656,1,single,37,high school,127206,skilled employee / official,0
+100001657,0,single,37,high school,83660,unemployed / unskilled,0
+100001658,1,non-single (divorced / separated / married / widowed),26,high school,87400,unemployed / unskilled,0
+100001659,1,non-single (divorced / separated / married / widowed),28,high school,78942,unemployed / unskilled,0
+100001660,1,non-single (divorced / separated / married / widowed),23,high school,88452,unemployed / unskilled,0
+100001661,0,single,38,high school,104128,skilled employee / official,0
+100001662,1,non-single (divorced / separated / married / widowed),30,high school,100313,skilled employee / official,0
+100001663,1,single,45,high school,107387,skilled employee / official,0
+100001664,0,single,24,other / unknown,84355,unemployed / unskilled,0
+100001665,1,single,35,high school,112723,skilled employee / official,0
+100001666,1,non-single (divorced / separated / married / widowed),41,high school,115892,skilled employee / official,0
+100001667,0,non-single (divorced / separated / married / widowed),30,high school,106597,skilled employee / official,0
+100001668,1,non-single (divorced / separated / married / widowed),30,high school,121327,skilled employee / official,0
+100001669,1,non-single (divorced / separated / married / widowed),26,high school,92559,unemployed / unskilled,0
+100001670,1,non-single (divorced / separated / married / widowed),25,high school,87537,unemployed / unskilled,0
+100001671,1,non-single (divorced / separated / married / widowed),23,high school,70569,unemployed / unskilled,0
+100001672,1,non-single (divorced / separated / married / widowed),27,high school,85294,unemployed / unskilled,0
+100001673,1,single,26,other / unknown,70905,unemployed / unskilled,0
+100001674,0,single,25,other / unknown,103716,unemployed / unskilled,0
+100001675,0,non-single (divorced / separated / married / widowed),27,high school,94947,skilled employee / official,0
+100001676,1,single,42,high school,80116,unemployed / unskilled,0
+100001677,0,single,35,high school,86492,unemployed / unskilled,0
+100001678,1,non-single (divorced / separated / married / widowed),25,high school,88672,unemployed / unskilled,0
+100001679,1,non-single (divorced / separated / married / widowed),26,high school,82984,unemployed / unskilled,0
+100001680,0,single,38,high school,128100,skilled employee / official,0
+100001681,1,single,28,other / unknown,72869,unemployed / unskilled,0
+100001682,0,non-single (divorced / separated / married / widowed),33,high school,112227,skilled employee / official,0
+100001683,1,single,40,high school,94674,unemployed / unskilled,0
+100001684,1,non-single (divorced / separated / married / widowed),23,high school,101003,skilled employee / official,0
+100001685,1,single,25,other / unknown,112924,skilled employee / official,0
+100001686,1,single,28,other / unknown,108645,unemployed / unskilled,0
+100001687,0,single,41,high school,69415,unemployed / unskilled,0
+100001688,1,single,50,high school,112204,unemployed / unskilled,0
+100001689,1,non-single (divorced / separated / married / widowed),23,high school,109700,skilled employee / official,0
+100001690,1,non-single (divorced / separated / married / widowed),26,high school,104484,skilled employee / official,0
+100001691,1,non-single (divorced / separated / married / widowed),22,high school,61239,unemployed / unskilled,0
+100001692,0,single,37,high school,119602,unemployed / unskilled,0
+100001693,1,single,38,high school,81014,unemployed / unskilled,0
+100001694,1,non-single (divorced / separated / married / widowed),22,high school,68165,unemployed / unskilled,0
+100001695,1,single,30,other / unknown,88652,unemployed / unskilled,0
+100001696,0,single,38,high school,75705,unemployed / unskilled,0
+100001697,1,non-single (divorced / separated / married / widowed),36,high school,104189,skilled employee / official,0
+100001698,0,single,41,high school,71603,unemployed / unskilled,0
+100001699,1,non-single (divorced / separated / married / widowed),29,high school,121914,skilled employee / official,0
+100001700,1,non-single (divorced / separated / married / widowed),31,high school,106637,skilled employee / official,0
+100001701,1,single,31,other / unknown,99800,skilled employee / official,0
+100001702,1,single,21,other / unknown,67629,unemployed / unskilled,0
+100001703,0,single,32,other / unknown,120354,skilled employee / official,0
+100001704,1,non-single (divorced / separated / married / widowed),35,high school,122110,skilled employee / official,0
+100001705,0,single,29,other / unknown,89170,unemployed / unskilled,0
+100001706,1,single,34,high school,109195,skilled employee / official,0
+100001707,1,single,38,high school,92392,unemployed / unskilled,0
+100001708,1,non-single (divorced / separated / married / widowed),33,high school,43805,unemployed / unskilled,0
+100001709,1,non-single (divorced / separated / married / widowed),28,high school,68389,unemployed / unskilled,0
+100001710,1,non-single (divorced / separated / married / widowed),28,high school,112521,skilled employee / official,0
+100001711,0,single,21,other / unknown,59255,unemployed / unskilled,0
+100001712,1,non-single (divorced / separated / married / widowed),29,high school,98612,unemployed / unskilled,0
+100001713,1,non-single (divorced / separated / married / widowed),26,high school,70649,unemployed / unskilled,0
+100001714,1,single,40,high school,95228,unemployed / unskilled,0
+100001715,1,single,25,other / unknown,46865,unemployed / unskilled,0
+100001716,0,non-single (divorced / separated / married / widowed),20,high school,101688,skilled employee / official,0
+100001717,1,non-single (divorced / separated / married / widowed),23,high school,62618,unemployed / unskilled,0
+100001718,1,single,27,other / unknown,102531,skilled employee / official,0
+100001719,1,single,36,high school,100737,skilled employee / official,0
+100001720,1,non-single (divorced / separated / married / widowed),25,high school,107321,skilled employee / official,0
+100001721,1,non-single (divorced / separated / married / widowed),25,high school,112879,unemployed / unskilled,0
+100001722,1,non-single (divorced / separated / married / widowed),34,high school,125372,unemployed / unskilled,0
+100001723,1,single,24,other / unknown,69419,unemployed / unskilled,0
+100001724,1,single,36,high school,124759,skilled employee / official,0
+100001725,1,single,40,high school,79076,unemployed / unskilled,0
+100001726,0,single,39,high school,84779,unemployed / unskilled,0
+100001727,1,single,42,high school,77393,unemployed / unskilled,0
+100001728,0,single,35,high school,113187,unemployed / unskilled,0
+100001729,1,non-single (divorced / separated / married / widowed),27,high school,99100,skilled employee / official,0
+100001730,0,single,27,other / unknown,64954,unemployed / unskilled,0
+100001731,1,non-single (divorced / separated / married / widowed),23,high school,103244,skilled employee / official,0
+100001732,1,non-single (divorced / separated / married / widowed),32,high school,124975,skilled employee / official,0
+100001733,0,non-single (divorced / separated / married / widowed),28,high school,133582,skilled employee / official,0
+100001734,0,single,22,other / unknown,103519,skilled employee / official,0
+100001735,0,single,31,other / unknown,117813,skilled employee / official,0
+100001736,1,non-single (divorced / separated / married / widowed),22,high school,119902,skilled employee / official,0
+100001737,0,single,23,other / unknown,70783,unemployed / unskilled,0
+100001738,1,non-single (divorced / separated / married / widowed),35,high school,125470,unemployed / unskilled,0
+100001739,1,non-single (divorced / separated / married / widowed),26,high school,109782,unemployed / unskilled,0
+100001740,1,non-single (divorced / separated / married / widowed),28,high school,78322,unemployed / unskilled,0
+100001741,0,single,54,high school,125517,skilled employee / official,0
+100001742,1,single,49,high school,102463,unemployed / unskilled,0
+100001743,1,single,38,high school,89309,unemployed / unskilled,0
+100001744,1,single,47,high school,110287,skilled employee / official,0
+100001745,1,single,49,high school,122391,unemployed / unskilled,0
+100001746,1,non-single (divorced / separated / married / widowed),30,high school,116399,skilled employee / official,0
+100001747,1,single,32,other / unknown,81907,unemployed / unskilled,0
+100001748,1,non-single (divorced / separated / married / widowed),24,high school,97909,unemployed / unskilled,0
+100001749,1,single,25,other / unknown,68051,unemployed / unskilled,0
+100001750,0,single,33,high school,82414,unemployed / unskilled,0
+100001751,1,non-single (divorced / separated / married / widowed),34,high school,123089,skilled employee / official,0
+100001752,1,non-single (divorced / separated / married / widowed),24,high school,66537,unemployed / unskilled,0
+100001753,1,single,36,high school,127926,unemployed / unskilled,0
+100001754,1,single,41,high school,78963,unemployed / unskilled,0
+100001755,0,non-single (divorced / separated / married / widowed),33,high school,108694,skilled employee / official,0
+100001756,1,non-single (divorced / separated / married / widowed),26,high school,100892,skilled employee / official,0
+100001757,1,single,36,high school,119560,skilled employee / official,0
+100001758,1,single,35,high school,116176,unemployed / unskilled,0
+100001759,0,single,29,other / unknown,111854,skilled employee / official,0
+100001760,1,non-single (divorced / separated / married / widowed),26,high school,69831,unemployed / unskilled,0
+100001761,0,single,31,other / unknown,69375,unemployed / unskilled,0
+100001762,0,non-single (divorced / separated / married / widowed),26,high school,71310,unemployed / unskilled,0
+100001763,0,single,47,high school,73913,unemployed / unskilled,0
+100001764,0,non-single (divorced / separated / married / widowed),20,high school,95492,skilled employee / official,0
+100001765,0,single,45,high school,109329,unemployed / unskilled,0
+100001766,0,single,36,high school,116027,skilled employee / official,0
+100001767,0,non-single (divorced / separated / married / widowed),31,high school,81987,unemployed / unskilled,0
+100001768,1,single,41,high school,83481,unemployed / unskilled,0
+100001769,1,single,31,other / unknown,72361,unemployed / unskilled,0
+100001770,1,non-single (divorced / separated / married / widowed),27,high school,106625,unemployed / unskilled,0
+100001771,1,non-single (divorced / separated / married / widowed),32,high school,123707,skilled employee / official,0
+100001772,1,single,43,high school,79353,unemployed / unskilled,0
+100001773,1,single,32,other / unknown,68347,unemployed / unskilled,0
+100001774,1,non-single (divorced / separated / married / widowed),29,high school,115832,skilled employee / official,0
+100001775,0,single,37,high school,89946,unemployed / unskilled,0
+100001776,1,single,35,high school,86319,unemployed / unskilled,0
+100001777,1,non-single (divorced / separated / married / widowed),23,high school,70963,unemployed / unskilled,0
+100001778,0,single,40,high school,106120,skilled employee / official,0
+100001779,1,non-single (divorced / separated / married / widowed),26,high school,97856,skilled employee / official,0
+100001780,0,single,28,other / unknown,61824,unemployed / unskilled,0
+100001781,1,non-single (divorced / separated / married / widowed),40,high school,103907,skilled employee / official,0
+100001782,1,non-single (divorced / separated / married / widowed),26,high school,99953,unemployed / unskilled,0
+100001783,1,non-single (divorced / separated / married / widowed),23,high school,113413,skilled employee / official,0
+100001784,0,single,26,other / unknown,107091,unemployed / unskilled,0
+100001785,0,single,26,other / unknown,124783,skilled employee / official,0
+100001786,1,single,49,high school,92281,unemployed / unskilled,0
+100001787,1,non-single (divorced / separated / married / widowed),26,high school,96219,skilled employee / official,0
+100001788,1,single,35,high school,86221,unemployed / unskilled,0
+100001789,1,non-single (divorced / separated / married / widowed),24,high school,80962,unemployed / unskilled,0
+100001790,1,single,46,high school,78754,unemployed / unskilled,0
+100001791,0,single,26,other / unknown,60026,unemployed / unskilled,0
+100001792,0,single,47,high school,88157,unemployed / unskilled,0
+100001793,0,single,27,other / unknown,59881,unemployed / unskilled,0
+100001794,0,non-single (divorced / separated / married / widowed),41,high school,112818,skilled employee / official,0
+100001795,1,non-single (divorced / separated / married / widowed),29,high school,102250,skilled employee / official,0
+100001796,1,non-single (divorced / separated / married / widowed),28,high school,38980,unemployed / unskilled,0
+100001797,1,non-single (divorced / separated / married / widowed),33,high school,81807,unemployed / unskilled,0
+100001798,1,single,50,high school,93148,unemployed / unskilled,0
+100001799,1,non-single (divorced / separated / married / widowed),32,high school,108032,skilled employee / official,0
+100001800,0,non-single (divorced / separated / married / widowed),31,high school,89335,unemployed / unskilled,0
+100001801,0,single,52,high school,95639,unemployed / unskilled,0
+100001802,0,single,53,high school,124902,skilled employee / official,0
+100001803,1,non-single (divorced / separated / married / widowed),34,high school,87801,unemployed / unskilled,0
+100001804,1,non-single (divorced / separated / married / widowed),22,high school,92538,skilled employee / official,0
+100001805,0,non-single (divorced / separated / married / widowed),33,high school,83687,unemployed / unskilled,0
+100001806,0,single,32,other / unknown,128310,skilled employee / official,0
+100001807,1,single,45,high school,104754,unemployed / unskilled,0
+100001808,0,non-single (divorced / separated / married / widowed),25,high school,68222,unemployed / unskilled,0
+100001809,1,non-single (divorced / separated / married / widowed),41,high school,97006,unemployed / unskilled,0
+100001810,1,single,36,high school,107372,unemployed / unskilled,0
+100001811,1,non-single (divorced / separated / married / widowed),27,high school,110511,skilled employee / official,0
+100001812,0,single,40,high school,72193,unemployed / unskilled,0
+100001813,1,single,37,high school,95972,unemployed / unskilled,0
+100001814,0,single,35,high school,105556,unemployed / unskilled,0
+100001815,0,single,34,high school,88701,unemployed / unskilled,0
+100001816,1,single,28,other / unknown,117710,skilled employee / official,0
+100001817,1,single,44,high school,76057,unemployed / unskilled,0
+100001818,0,non-single (divorced / separated / married / widowed),27,high school,100392,skilled employee / official,0
+100001819,1,single,50,high school,113308,skilled employee / official,0
+100001820,1,non-single (divorced / separated / married / widowed),18,high school,100924,skilled employee / official,0
+100001821,1,single,25,other / unknown,72188,unemployed / unskilled,0
+100001822,1,non-single (divorced / separated / married / widowed),40,high school,70431,unemployed / unskilled,0
+100001823,0,non-single (divorced / separated / married / widowed),28,high school,110103,skilled employee / official,0
+100001824,1,non-single (divorced / separated / married / widowed),23,high school,60825,unemployed / unskilled,0
+100001825,1,non-single (divorced / separated / married / widowed),35,high school,75100,unemployed / unskilled,0
+100001826,1,non-single (divorced / separated / married / widowed),28,high school,129327,skilled employee / official,0
+100001827,1,single,23,other / unknown,95541,skilled employee / official,0
+100001828,0,non-single (divorced / separated / married / widowed),34,high school,112777,skilled employee / official,0
+100001829,1,non-single (divorced / separated / married / widowed),29,high school,51496,unemployed / unskilled,0
+100001830,1,single,35,high school,102781,skilled employee / official,0
+100001831,1,non-single (divorced / separated / married / widowed),32,high school,87494,unemployed / unskilled,0
+100001832,1,single,46,high school,72728,unemployed / unskilled,0
+100001833,1,non-single (divorced / separated / married / widowed),27,high school,114775,skilled employee / official,0
+100001834,1,non-single (divorced / separated / married / widowed),25,high school,124359,skilled employee / official,0
+100001835,1,non-single (divorced / separated / married / widowed),27,high school,101620,unemployed / unskilled,0
+100001836,1,non-single (divorced / separated / married / widowed),24,high school,87964,unemployed / unskilled,0
+100001837,1,single,33,other / unknown,69523,unemployed / unskilled,0
+100001838,1,non-single (divorced / separated / married / widowed),24,high school,109486,skilled employee / official,0
+100001839,1,single,28,other / unknown,77206,unemployed / unskilled,0
+100001840,1,single,35,high school,53608,unemployed / unskilled,0
+100001841,1,non-single (divorced / separated / married / widowed),30,high school,118677,skilled employee / official,0
+100001842,0,single,43,high school,116512,skilled employee / official,0
+100001843,0,non-single (divorced / separated / married / widowed),21,high school,114756,unemployed / unskilled,0
+100001844,1,non-single (divorced / separated / married / widowed),24,high school,65852,unemployed / unskilled,0
+100001845,0,single,34,high school,75626,unemployed / unskilled,0
+100001846,1,non-single (divorced / separated / married / widowed),26,high school,127455,skilled employee / official,0
+100001847,0,single,37,high school,107073,skilled employee / official,0
+100001848,1,non-single (divorced / separated / married / widowed),32,high school,82196,unemployed / unskilled,0
+100001849,1,non-single (divorced / separated / married / widowed),33,high school,106741,unemployed / unskilled,0
+100001850,0,non-single (divorced / separated / married / widowed),28,high school,94518,skilled employee / official,0
+100001851,1,non-single (divorced / separated / married / widowed),30,high school,114430,skilled employee / official,0
+100001852,1,non-single (divorced / separated / married / widowed),26,high school,57165,unemployed / unskilled,0
+100001853,1,single,25,other / unknown,109610,unemployed / unskilled,0
+100001854,0,single,33,other / unknown,113619,skilled employee / official,0
+100001855,1,non-single (divorced / separated / married / widowed),30,high school,93854,skilled employee / official,0
+100001856,1,non-single (divorced / separated / married / widowed),26,high school,129022,skilled employee / official,0
+100001857,0,non-single (divorced / separated / married / widowed),23,high school,66804,unemployed / unskilled,0
+100001858,0,non-single (divorced / separated / married / widowed),25,high school,62689,unemployed / unskilled,0
+100001859,1,single,40,high school,67619,unemployed / unskilled,0
+100001860,0,single,46,high school,113495,unemployed / unskilled,0
+100001861,1,non-single (divorced / separated / married / widowed),43,high school,48632,unemployed / unskilled,0
+100001862,1,non-single (divorced / separated / married / widowed),22,high school,107394,unemployed / unskilled,0
+100001863,0,non-single (divorced / separated / married / widowed),39,high school,72385,unemployed / unskilled,0
+100001864,1,non-single (divorced / separated / married / widowed),27,high school,115934,unemployed / unskilled,0
+100001865,0,single,40,high school,93183,unemployed / unskilled,0
+100001866,0,single,24,other / unknown,63506,unemployed / unskilled,0
+100001867,1,single,52,high school,113619,skilled employee / official,0
+100001868,1,non-single (divorced / separated / married / widowed),30,high school,121399,unemployed / unskilled,0
+100001869,1,non-single (divorced / separated / married / widowed),34,high school,78281,unemployed / unskilled,0
+100001870,1,single,38,high school,103926,skilled employee / official,0
+100001871,0,non-single (divorced / separated / married / widowed),39,high school,89097,unemployed / unskilled,0
+100001872,1,single,29,other / unknown,80852,unemployed / unskilled,0
+100001873,0,non-single (divorced / separated / married / widowed),25,high school,65207,unemployed / unskilled,0
+100001874,1,non-single (divorced / separated / married / widowed),35,high school,93495,unemployed / unskilled,0
+100001875,0,single,53,high school,121970,unemployed / unskilled,0
+100001876,0,single,26,other / unknown,62027,unemployed / unskilled,0
+100001877,0,single,33,high school,88602,unemployed / unskilled,0
+100001878,0,non-single (divorced / separated / married / widowed),29,high school,89914,unemployed / unskilled,0
+100001879,0,single,39,high school,83342,unemployed / unskilled,0
+100001880,0,single,29,other / unknown,103439,skilled employee / official,0
+100001881,0,single,26,other / unknown,115451,skilled employee / official,0
+100001882,0,single,24,other / unknown,68250,unemployed / unskilled,0
+100001883,1,non-single (divorced / separated / married / widowed),21,high school,113630,unemployed / unskilled,0
+100001884,1,non-single (divorced / separated / married / widowed),26,high school,125880,skilled employee / official,0
+100001885,1,non-single (divorced / separated / married / widowed),20,high school,91177,unemployed / unskilled,0
+100001886,1,single,35,high school,73266,unemployed / unskilled,0
+100001887,1,non-single (divorced / separated / married / widowed),24,high school,69021,unemployed / unskilled,0
+100001888,1,single,40,high school,122593,skilled employee / official,0
+100001889,1,single,44,high school,122180,skilled employee / official,0
+100001890,0,single,29,other / unknown,75160,unemployed / unskilled,0
+100001891,1,non-single (divorced / separated / married / widowed),39,high school,81973,unemployed / unskilled,0
+100001892,1,non-single (divorced / separated / married / widowed),35,high school,92194,unemployed / unskilled,0
+100001893,0,single,42,high school,107380,unemployed / unskilled,0
+100001894,1,single,32,high school,98023,skilled employee / official,0
+100001895,0,single,48,high school,94868,unemployed / unskilled,0
+100001896,0,single,26,other / unknown,83442,unemployed / unskilled,0
+100001897,1,non-single (divorced / separated / married / widowed),26,high school,109887,skilled employee / official,0
+100001898,0,single,42,high school,98876,unemployed / unskilled,0
+100001899,0,single,48,high school,94962,unemployed / unskilled,0
+100001900,1,non-single (divorced / separated / married / widowed),42,high school,130740,skilled employee / official,0
+100001901,1,non-single (divorced / separated / married / widowed),27,high school,94095,unemployed / unskilled,0
+100001902,1,non-single (divorced / separated / married / widowed),37,high school,95071,unemployed / unskilled,0
+100001903,0,single,33,other / unknown,117308,skilled employee / official,0
+100001904,0,single,33,high school,112093,skilled employee / official,0
+100001905,1,single,37,high school,123893,skilled employee / official,0
+100001906,1,non-single (divorced / separated / married / widowed),31,high school,80189,unemployed / unskilled,0
+100001907,0,single,39,high school,124089,skilled employee / official,0
+100001908,1,single,40,high school,82673,unemployed / unskilled,0
+100001909,1,non-single (divorced / separated / married / widowed),28,high school,88858,unemployed / unskilled,0
+100001910,1,non-single (divorced / separated / married / widowed),26,high school,80540,unemployed / unskilled,0
+100001911,1,non-single (divorced / separated / married / widowed),24,high school,84228,unemployed / unskilled,0
+100001912,0,single,40,high school,103963,skilled employee / official,0
+100001913,1,non-single (divorced / separated / married / widowed),29,high school,102397,skilled employee / official,0
+100001914,0,single,43,high school,111563,skilled employee / official,0
+100001915,0,single,23,other / unknown,88260,unemployed / unskilled,0
+100001916,1,single,34,high school,114767,skilled employee / official,0
+100001917,1,non-single (divorced / separated / married / widowed),42,high school,113275,skilled employee / official,0
+100001918,1,non-single (divorced / separated / married / widowed),33,high school,104755,skilled employee / official,0
+100001919,1,non-single (divorced / separated / married / widowed),32,high school,120525,skilled employee / official,0
+100001920,1,non-single (divorced / separated / married / widowed),26,high school,96082,unemployed / unskilled,0
+100001921,1,non-single (divorced / separated / married / widowed),23,high school,87227,unemployed / unskilled,0
+100001922,1,non-single (divorced / separated / married / widowed),26,high school,69333,unemployed / unskilled,0
+100001923,1,non-single (divorced / separated / married / widowed),27,high school,87777,unemployed / unskilled,0
+100001924,0,single,24,other / unknown,70978,unemployed / unskilled,0
+100001925,0,single,27,other / unknown,104196,unemployed / unskilled,0
+100001926,1,non-single (divorced / separated / married / widowed),26,high school,97551,skilled employee / official,0
+100001927,1,single,42,high school,78979,unemployed / unskilled,0
+100001928,1,single,37,high school,82500,unemployed / unskilled,0
+100001929,1,non-single (divorced / separated / married / widowed),26,high school,86306,unemployed / unskilled,0
+100001930,1,non-single (divorced / separated / married / widowed),24,high school,78762,unemployed / unskilled,0
+100001931,1,single,39,high school,125543,skilled employee / official,0
+100001932,0,single,26,other / unknown,70336,unemployed / unskilled,0
+100001933,0,non-single (divorced / separated / married / widowed),35,high school,112975,skilled employee / official,0
+100001934,0,single,38,high school,96681,unemployed / unskilled,0
+100001935,1,non-single (divorced / separated / married / widowed),24,high school,98922,skilled employee / official,0
+100001936,1,single,26,other / unknown,109250,skilled employee / official,0
+100001937,0,single,25,other / unknown,108960,unemployed / unskilled,0
+100001938,0,single,40,high school,71302,unemployed / unskilled,0
+100001939,1,single,48,high school,107757,unemployed / unskilled,0
+100001940,1,non-single (divorced / separated / married / widowed),22,high school,111600,skilled employee / official,0
+100001941,1,non-single (divorced / separated / married / widowed),25,high school,102974,skilled employee / official,0
+100001942,0,non-single (divorced / separated / married / widowed),24,high school,63442,unemployed / unskilled,0
+100001943,0,single,39,high school,118913,unemployed / unskilled,0
+100001944,0,single,39,high school,80987,unemployed / unskilled,0
+100001945,1,non-single (divorced / separated / married / widowed),21,high school,68790,unemployed / unskilled,0
+100001946,1,single,27,other / unknown,86462,unemployed / unskilled,0
+100001947,0,single,40,high school,76881,unemployed / unskilled,0
+100001948,1,non-single (divorced / separated / married / widowed),37,high school,107409,skilled employee / official,0
+100001949,1,single,42,high school,69114,unemployed / unskilled,0
+100001950,1,non-single (divorced / separated / married / widowed),31,high school,119167,skilled employee / official,0
+100001951,1,non-single (divorced / separated / married / widowed),31,high school,102018,skilled employee / official,0
+100001952,0,single,30,other / unknown,97680,skilled employee / official,0
+100001953,1,single,23,other / unknown,65062,unemployed / unskilled,0
+100001954,0,single,33,other / unknown,118144,skilled employee / official,0
+100001955,1,non-single (divorced / separated / married / widowed),37,high school,124548,skilled employee / official,0
+100001956,1,single,29,other / unknown,85637,unemployed / unskilled,0
+100001957,1,single,31,high school,113108,skilled employee / official,0
+100001958,0,single,39,high school,93554,unemployed / unskilled,0
+100001959,1,non-single (divorced / separated / married / widowed),33,high school,42516,unemployed / unskilled,0
+100001960,0,non-single (divorced / separated / married / widowed),26,high school,72429,unemployed / unskilled,0
+100001961,1,non-single (divorced / separated / married / widowed),27,high school,110154,skilled employee / official,0
+100001962,1,single,20,other / unknown,60965,unemployed / unskilled,0
+100001963,1,non-single (divorced / separated / married / widowed),27,high school,100618,unemployed / unskilled,0
+100001964,1,non-single (divorced / separated / married / widowed),26,high school,71021,unemployed / unskilled,0
+100001965,0,single,40,high school,94189,unemployed / unskilled,0
+100001966,0,single,24,other / unknown,44742,unemployed / unskilled,0
+100001967,1,non-single (divorced / separated / married / widowed),22,high school,103201,skilled employee / official,0
+100001968,1,non-single (divorced / separated / married / widowed),24,high school,62335,unemployed / unskilled,0
+100001969,1,single,27,other / unknown,103787,skilled employee / official,0
+100001970,0,single,35,high school,99401,skilled employee / official,0
+100001971,0,non-single (divorced / separated / married / widowed),27,high school,105197,skilled employee / official,0
+100001972,1,non-single (divorced / separated / married / widowed),25,high school,115566,unemployed / unskilled,0
+100001973,1,non-single (divorced / separated / married / widowed),34,high school,125843,unemployed / unskilled,0
+100001974,1,single,24,other / unknown,67936,unemployed / unskilled,0
+100001975,1,single,34,high school,120863,skilled employee / official,0
+100001976,0,single,42,high school,77317,unemployed / unskilled,0
+100001977,1,single,38,high school,84653,unemployed / unskilled,0
+100001978,0,single,42,high school,81606,unemployed / unskilled,0
+100001979,1,single,35,high school,113380,unemployed / unskilled,0
+100001980,1,non-single (divorced / separated / married / widowed),27,high school,100644,skilled employee / official,0
+100001981,0,single,25,other / unknown,64037,unemployed / unskilled,0
+100001982,1,non-single (divorced / separated / married / widowed),23,high school,101350,skilled employee / official,0
+100001983,1,non-single (divorced / separated / married / widowed),34,high school,126334,skilled employee / official,0
+100001984,1,non-single (divorced / separated / married / widowed),28,high school,130877,skilled employee / official,0
+100001985,0,single,21,other / unknown,103470,skilled employee / official,0
+100001986,1,single,32,other / unknown,114588,skilled employee / official,0
+100001987,1,non-single (divorced / separated / married / widowed),21,high school,120682,skilled employee / official,0
+100001988,0,single,25,other / unknown,66628,unemployed / unskilled,0
+100001989,1,non-single (divorced / separated / married / widowed),35,high school,124447,unemployed / unskilled,0
+100001990,1,non-single (divorced / separated / married / widowed),25,high school,106567,unemployed / unskilled,0
+100001991,1,non-single (divorced / separated / married / widowed),31,high school,78758,unemployed / unskilled,0
+100001992,0,single,54,high school,128537,skilled employee / official,0
+100001993,1,single,51,high school,101074,unemployed / unskilled,0
+100001994,1,single,38,high school,87670,unemployed / unskilled,0
+100001995,0,single,45,high school,113414,skilled employee / official,0
+100001996,1,single,47,high school,123525,unemployed / unskilled,0
+100001997,1,non-single (divorced / separated / married / widowed),27,high school,117744,skilled employee / official,0
+100001998,0,single,31,other / unknown,86400,unemployed / unskilled,0
+100001999,1,non-single (divorced / separated / married / widowed),24,high school,97968,unemployed / unskilled,0
+100002000,0,single,25,other / unknown,68416,unemployed / unskilled,0
